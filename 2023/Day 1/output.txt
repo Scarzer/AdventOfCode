@@ -1,0 +1,5002 @@
+dqfournine5four2jmlqcgv
+[(2, 'four'), (6, 'nine'), (10, '5'), (11, 'four'), (15, '2')]
+('four', '2')
+42
+====
+7ggzdnjxndfive
+[(0, '7'), (10, 'five')]
+('7', 'five')
+75
+====
+twofive4threenine
+[(0, 'two'), (3, 'five'), (7, '4'), (8, 'three'), (13, 'nine')]
+('two', 'nine')
+29
+====
+dttwonezbgmcseven5seven
+[(2, 'two'), (4, 'one'), (12, 'seven'), (17, '5'), (18, 'seven')]
+('two', 'seven')
+27
+====
+5vsrcnine
+[(0, '5'), (5, 'nine')]
+('5', 'nine')
+59
+====
+95zzbjck
+[(0, '9'), (1, '5')]
+('9', '5')
+95
+====
+gkoneight4fivekvktltnine
+[(2, 'one'), (4, 'eight'), (9, '4'), (10, 'five'), (20, 'nine')]
+('one', 'nine')
+19
+====
+fiverckdmgbfthjdqpmpgdkmcklqtqc365mqtwo
+[(0, 'five'), (31, '3'), (32, '6'), (33, '5'), (36, 'two')]
+('five', 'two')
+52
+====
+44sevenhvstcbgkhm5foureight11
+[(0, '4'), (1, '4'), (2, 'seven'), (17, '5'), (18, 'four'), (22, 'eight'), (27, '1'), (28, '1')]
+('4', '1')
+41
+====
+dprrtrngrfccz4eight4two8sthmfive
+[(13, '4'), (14, 'eight'), (19, '4'), (20, 'two'), (23, '8'), (28, 'five')]
+('4', 'five')
+45
+====
+6twofive4seven7nine
+[(0, '6'), (1, 'two'), (4, 'five'), (8, '4'), (9, 'seven'), (14, '7'), (15, 'nine')]
+('6', 'nine')
+69
+====
+four1sevenbfbnqvkbfoursix7
+[(0, 'four'), (4, '1'), (5, 'seven'), (18, 'four'), (22, 'six'), (25, '7')]
+('four', '7')
+47
+====
+12xpdghpeightqvztrsslgsix5smlgfjhcpst
+[(0, '1'), (1, '2'), (8, 'eight'), (22, 'six'), (25, '5')]
+('1', '5')
+15
+====
+8dhzdtbeightfour3
+[(0, '8'), (7, 'eight'), (12, 'four'), (16, '3')]
+('8', '3')
+83
+====
+pttdtmhg4
+[(8, '4')]
+4
+4
+====
+6eightsevendbtbxnqzxds6
+[(0, '6'), (1, 'eight'), (6, 'seven'), (22, '6')]
+('6', '6')
+66
+====
+twothree5nxglqlc9
+[(0, 'two'), (3, 'three'), (8, '5'), (16, '9')]
+('two', '9')
+29
+====
+nine6lqhnvbpxoneseveneightsxjfkz4vr
+[(0, 'nine'), (4, '6'), (13, 'one'), (16, 'seven'), (21, 'eight'), (32, '4')]
+('nine', '4')
+94
+====
+three28jxdmlqfmc619eightwol
+[(0, 'three'), (5, '2'), (6, '8'), (16, '6'), (17, '1'), (18, '9'), (19, 'eight'), (23, 'two')]
+('three', 'two')
+32
+====
+26jtdpgqjzshncxvlljfour
+[(0, '2'), (1, '6'), (19, 'four')]
+('2', 'four')
+24
+====
+qxvpsctgx1
+[(9, '1')]
+1
+1
+====
+28286qdjjlgtdtnsm3hk
+[(0, '2'), (1, '8'), (2, '2'), (3, '8'), (4, '6'), (17, '3')]
+('2', '3')
+23
+====
+9hcj6nine
+[(0, '9'), (4, '6'), (5, 'nine')]
+('9', 'nine')
+99
+====
+nineseven9sqtrpfour
+[(0, 'nine'), (4, 'seven'), (9, '9'), (15, 'four')]
+('nine', 'four')
+94
+====
+one1eight4sixzltzrkthree
+[(0, 'one'), (3, '1'), (4, 'eight'), (9, '4'), (10, 'six'), (19, 'three')]
+('one', 'three')
+13
+====
+threevlgfxhnf6seven6nine68
+[(0, 'three'), (13, '6'), (14, 'seven'), (19, '6'), (20, 'nine'), (24, '6'), (25, '8')]
+('three', '8')
+38
+====
+sixonesxxbxvfnkt8
+[(0, 'six'), (3, 'one'), (16, '8')]
+('six', '8')
+68
+====
+8fivefivefour7sxsrvdrz
+[(0, '8'), (1, 'five'), (5, 'five'), (9, 'four'), (13, '7')]
+('8', '7')
+87
+====
+oneone7
+[(0, 'one'), (3, 'one'), (6, '7')]
+('one', '7')
+17
+====
+ndtkjbsix6three9gdsjlljtj6six
+[(6, 'six'), (9, '6'), (10, 'three'), (15, '9'), (25, '6'), (26, 'six')]
+('six', 'six')
+66
+====
+cfmrfgjqgrzcmsix5
+[(13, 'six'), (16, '5')]
+('six', '5')
+65
+====
+3threefour62three3vrmnmgx
+[(0, '3'), (1, 'three'), (6, 'four'), (10, '6'), (11, '2'), (12, 'three'), (17, '3')]
+('3', '3')
+33
+====
+kckdghseventwo1758
+[(6, 'seven'), (11, 'two'), (14, '1'), (15, '7'), (16, '5'), (17, '8')]
+('seven', '8')
+78
+====
+mdbqqjmpvonetwo1six31fourntbfb
+[(9, 'one'), (12, 'two'), (15, '1'), (16, 'six'), (19, '3'), (20, '1'), (21, 'four')]
+('one', 'four')
+14
+====
+lkjhjdthree3
+[(6, 'three'), (11, '3')]
+('three', '3')
+33
+====
+qthseven61mpfnnhm6fivecnhz2
+[(3, 'seven'), (8, '6'), (9, '1'), (17, '6'), (18, 'five'), (26, '2')]
+('seven', '2')
+72
+====
+twojrfgzjstjvlngnpqcj8grtnvxmzbxkfrvqmvnmvmbdr
+[(0, 'two'), (21, '8')]
+('two', '8')
+28
+====
+sloneightkqbgcpnv8kqcmzfouronesevenmrfjeight
+[(2, 'one'), (4, 'eight'), (17, '8'), (23, 'four'), (27, 'one'), (30, 'seven'), (39, 'eight')]
+('one', 'eight')
+18
+====
+xdxdxg9seventwo8xcq1
+[(6, '9'), (7, 'seven'), (12, 'two'), (15, '8'), (19, '1')]
+('9', '1')
+91
+====
+dpdgxzk7
+[(7, '7')]
+7
+7
+====
+18six3twoone
+[(0, '1'), (1, '8'), (2, 'six'), (5, '3'), (6, 'two'), (9, 'one')]
+('1', 'one')
+11
+====
+1twoseven3five
+[(0, '1'), (1, 'two'), (4, 'seven'), (9, '3'), (10, 'five')]
+('1', 'five')
+15
+====
+46tkbclbkleight64
+[(0, '4'), (1, '6'), (10, 'eight'), (15, '6'), (16, '4')]
+('4', '4')
+44
+====
+tjprpjbshr2seven1pgfqmbmjlvsv
+[(10, '2'), (11, 'seven'), (16, '1')]
+('2', '1')
+21
+====
+3mbjccssjgtdttvbdhdfxvldpmhcpc
+[(0, '3')]
+3
+3
+====
+lgfrkpsfvz5ppgqphtwoznjtgxdjpm3
+[(10, '5'), (17, 'two'), (30, '3')]
+('5', '3')
+53
+====
+mjmlsevenggsbjbtsix9nineone
+[(4, 'seven'), (16, 'six'), (19, '9'), (20, 'nine'), (24, 'one')]
+('seven', 'one')
+71
+====
+jqfqjqhthreenine7eightklkttdkbtmpp1
+[(7, 'three'), (12, 'nine'), (16, '7'), (17, 'eight'), (34, '1')]
+('three', '1')
+31
+====
+trptrkbone52eight6
+[(7, 'one'), (10, '5'), (11, '2'), (12, 'eight'), (17, '6')]
+('one', '6')
+16
+====
+onetmvsrjlbqlninesix8
+[(0, 'one'), (13, 'nine'), (17, 'six'), (20, '8')]
+('one', '8')
+18
+====
+rone9ktvdqkdgl1
+[(1, 'one'), (4, '9'), (14, '1')]
+('one', '1')
+11
+====
+twosix5sixgrfdft54klf4
+[(0, 'two'), (3, 'six'), (6, '5'), (7, 'six'), (16, '5'), (17, '4'), (21, '4')]
+('two', '4')
+24
+====
+thrmone3eightsixfive
+[(4, 'one'), (7, '3'), (8, 'eight'), (13, 'six'), (16, 'five')]
+('one', 'five')
+15
+====
+three4one
+[(0, 'three'), (5, '4'), (6, 'one')]
+('three', 'one')
+31
+====
+ppthg2three1one
+[(5, '2'), (6, 'three'), (11, '1'), (12, 'one')]
+('2', 'one')
+21
+====
+7vt426
+[(0, '7'), (3, '4'), (4, '2'), (5, '6')]
+('7', '6')
+76
+====
+22foureight6
+[(0, '2'), (1, '2'), (2, 'four'), (6, 'eight'), (11, '6')]
+('2', '6')
+26
+====
+fourxbhmone56seven8eightnine
+[(0, 'four'), (8, 'one'), (11, '5'), (12, '6'), (13, 'seven'), (18, '8'), (19, 'eight'), (24, 'nine')]
+('four', 'nine')
+49
+====
+vhmsd171rgkhpgfhffnhkvt
+[(5, '1'), (6, '7'), (7, '1')]
+('1', '1')
+11
+====
+xgbzxszsgtthree4
+[(10, 'three'), (15, '4')]
+('three', '4')
+34
+====
+rclzfsn5twoeight
+[(7, '5'), (8, 'two'), (11, 'eight')]
+('5', 'eight')
+58
+====
+989nine2seven
+[(0, '9'), (1, '8'), (2, '9'), (3, 'nine'), (7, '2'), (8, 'seven')]
+('9', 'seven')
+97
+====
+eighteight5fivensix8
+[(0, 'eight'), (5, 'eight'), (10, '5'), (11, 'five'), (16, 'six'), (19, '8')]
+('eight', '8')
+88
+====
+dfxzz5qcqzsjsg
+[(5, '5')]
+5
+5
+====
+d3eight54
+[(1, '3'), (2, 'eight'), (7, '5'), (8, '4')]
+('3', '4')
+34
+====
+5knflhntzthreeseventwo
+[(0, '5'), (9, 'three'), (14, 'seven'), (19, 'two')]
+('5', 'two')
+52
+====
+threeonefour9oneninebsfpq
+[(0, 'three'), (5, 'one'), (8, 'four'), (12, '9'), (13, 'one'), (16, 'nine')]
+('three', 'nine')
+39
+====
+hjhgtjgtwotrsffive8hfntm
+[(7, 'two'), (14, 'five'), (18, '8')]
+('two', '8')
+28
+====
+sixpmhzqrlkrthreefour1pcgvz96
+[(0, 'six'), (12, 'three'), (17, 'four'), (21, '1'), (27, '9'), (28, '6')]
+('six', '6')
+66
+====
+5three31xqcsshkkqtfblffcmcntfour
+[(0, '5'), (1, 'three'), (6, '3'), (7, '1'), (28, 'four')]
+('5', 'four')
+54
+====
+zghcfvjsfz29nine
+[(10, '2'), (11, '9'), (12, 'nine')]
+('2', 'nine')
+29
+====
+3vvvrlrjdztlhqqm88
+[(0, '3'), (16, '8'), (17, '8')]
+('3', '8')
+38
+====
+39nine3seven93
+[(0, '3'), (1, '9'), (2, 'nine'), (6, '3'), (7, 'seven'), (12, '9'), (13, '3')]
+('3', '3')
+33
+====
+1fqsgnjzrl6lrzsczc
+[(0, '1'), (10, '6')]
+('1', '6')
+16
+====
+threepldztlnvnzdntqllpr19
+[(0, 'three'), (23, '1'), (24, '9')]
+('three', '9')
+39
+====
+ninekgqqrgttfntrhjzlvninelr3
+[(0, 'nine'), (21, 'nine'), (27, '3')]
+('nine', '3')
+93
+====
+94eighteighteight
+[(0, '9'), (1, '4'), (2, 'eight'), (7, 'eight'), (12, 'eight')]
+('9', 'eight')
+98
+====
+two13txmtlqxskhltkrvbjrzm97five
+[(0, 'two'), (3, '1'), (4, '3'), (25, '9'), (26, '7'), (27, 'five')]
+('two', 'five')
+25
+====
+dbmjvszjtb17
+[(10, '1'), (11, '7')]
+('1', '7')
+17
+====
+twogpfttmhp8two13
+[(0, 'two'), (11, '8'), (12, 'two'), (15, '1'), (16, '3')]
+('two', '3')
+23
+====
+four4bqzqscdbctssgxfzjjntwonfcktjrtnxskjpkhvlfjt
+[(0, 'four'), (4, '4'), (24, 'two')]
+('four', 'two')
+42
+====
+ctxxvdsvsvjzchmxvxceightthreembnlg5ninevmcbgsvbh
+[(19, 'eight'), (24, 'three'), (34, '5'), (35, 'nine')]
+('eight', 'nine')
+89
+====
+fpbrpfourqmrfcnpvxg8onehkbbgbsnnt
+[(5, 'four'), (19, '8'), (20, 'one')]
+('four', 'one')
+41
+====
+4zrrgsevenfour
+[(0, '4'), (5, 'seven'), (10, 'four')]
+('4', 'four')
+44
+====
+6eight9foureightxlgdn
+[(0, '6'), (1, 'eight'), (6, '9'), (7, 'four'), (11, 'eight')]
+('6', 'eight')
+68
+====
+693rzcnvlfrv
+[(0, '6'), (1, '9'), (2, '3')]
+('6', '3')
+63
+====
+bcftntcfl4jxbccpcmjeightcrxsjscmxdeightmhqbnpdvcfour
+[(9, '4'), (19, 'eight'), (34, 'eight'), (48, 'four')]
+('4', 'four')
+44
+====
+six83
+[(0, 'six'), (3, '8'), (4, '3')]
+('six', '3')
+63
+====
+xl4
+[(2, '4')]
+4
+4
+====
+njslckcbdfvkmkdk9eight
+[(16, '9'), (17, 'eight')]
+('9', 'eight')
+98
+====
+ninenineeight4nine
+[(0, 'nine'), (4, 'nine'), (8, 'eight'), (13, '4'), (14, 'nine')]
+('nine', 'nine')
+99
+====
+jkzvq3fourzzvdzdft
+[(5, '3'), (6, 'four')]
+('3', 'four')
+34
+====
+bfqpb9
+[(5, '9')]
+9
+9
+====
+eight6nlzdskjfourbmdvcrcgrshbjcxfour2
+[(0, 'eight'), (5, '6'), (13, 'four'), (32, 'four'), (36, '2')]
+('eight', '2')
+82
+====
+7zhlxtqtbjxqbszdtwonineeightjcl9
+[(0, '7'), (16, 'two'), (19, 'nine'), (23, 'eight'), (31, '9')]
+('7', '9')
+79
+====
+fvcjzxd5sevenfivefqnvkjthreeseven
+[(7, '5'), (8, 'seven'), (13, 'five'), (23, 'three'), (28, 'seven')]
+('5', 'seven')
+57
+====
+3cxmpzkng3
+[(0, '3'), (9, '3')]
+('3', '3')
+33
+====
+8x2
+[(0, '8'), (2, '2')]
+('8', '2')
+82
+====
+nineeightsevenfourpfzzflnp97
+[(0, 'nine'), (4, 'eight'), (9, 'seven'), (14, 'four'), (26, '9'), (27, '7')]
+('nine', '7')
+97
+====
+2lkjpfhnpn7gbtztgxtnmclzdtdh33eightstbfrvxqz
+[(0, '2'), (10, '7'), (28, '3'), (29, '3'), (30, 'eight')]
+('2', 'eight')
+28
+====
+nv8
+[(2, '8')]
+8
+8
+====
+3one7eight
+[(0, '3'), (1, 'one'), (4, '7'), (5, 'eight')]
+('3', 'eight')
+38
+====
+ninetwortwoeightfive8ls
+[(0, 'nine'), (4, 'two'), (8, 'two'), (11, 'eight'), (16, 'five'), (20, '8')]
+('nine', '8')
+98
+====
+shncxrjqnjttvvzvnl6
+[(18, '6')]
+6
+6
+====
+ninethree963
+[(0, 'nine'), (4, 'three'), (9, '9'), (10, '6'), (11, '3')]
+('nine', '3')
+93
+====
+mjcfrzjhr33csjxrtmm
+[(9, '3'), (10, '3')]
+('3', '3')
+33
+====
+five17
+[(0, 'five'), (4, '1'), (5, '7')]
+('five', '7')
+57
+====
+84bdfnptmffourfbqslsqeight
+[(0, '8'), (1, '4'), (10, 'four'), (21, 'eight')]
+('8', 'eight')
+88
+====
+onegrzpdj8three2one6fsk
+[(0, 'one'), (9, '8'), (10, 'three'), (15, '2'), (16, 'one'), (19, '6')]
+('one', '6')
+16
+====
+eight33gxpcqvpmeightk
+[(0, 'eight'), (5, '3'), (6, '3'), (15, 'eight')]
+('eight', 'eight')
+88
+====
+6fbsfclhninetqj5twobxcz
+[(0, '6'), (8, 'nine'), (15, '5'), (16, 'two')]
+('6', 'two')
+62
+====
+119sixnjmxmvv
+[(0, '1'), (1, '1'), (2, '9'), (3, 'six')]
+('1', 'six')
+16
+====
+825bhceightone4jjdbvrzt2
+[(0, '8'), (1, '2'), (2, '5'), (6, 'eight'), (11, 'one'), (14, '4'), (23, '2')]
+('8', '2')
+82
+====
+xjchvkxxhg3sevensixseven3kmgqfmbgmbjnrq
+[(10, '3'), (11, 'seven'), (16, 'six'), (19, 'seven'), (24, '3')]
+('3', '3')
+33
+====
+l2
+[(1, '2')]
+2
+2
+====
+36hcmfnbmsevenfivetxhhgjdlq1khkk
+[(0, '3'), (1, '6'), (9, 'seven'), (14, 'five'), (27, '1')]
+('3', '1')
+31
+====
+eightj47five4sqtwo
+[(0, 'eight'), (6, '4'), (7, '7'), (8, 'five'), (12, '4'), (15, 'two')]
+('eight', 'two')
+82
+====
+6nineeight9
+[(0, '6'), (1, 'nine'), (5, 'eight'), (10, '9')]
+('6', '9')
+69
+====
+g2drvxqvpnbjfqxhl
+[(1, '2')]
+2
+2
+====
+vglkfour9rlmhsnine
+[(4, 'four'), (8, '9'), (14, 'nine')]
+('four', 'nine')
+49
+====
+onefivezr6rrtddnrg
+[(0, 'one'), (3, 'five'), (9, '6')]
+('one', '6')
+16
+====
+3threellcbhjhjzqfive5
+[(0, '3'), (1, 'three'), (16, 'five'), (20, '5')]
+('3', '5')
+35
+====
+ggbmhzkcone2
+[(8, 'one'), (11, '2')]
+('one', '2')
+12
+====
+23nclcqvjdzqcrpvsmnpzsfg3five
+[(0, '2'), (1, '3'), (24, '3'), (25, 'five')]
+('2', 'five')
+25
+====
+two5eightddxqgpm8twoseven
+[(0, 'two'), (3, '5'), (4, 'eight'), (16, '8'), (17, 'two'), (20, 'seven')]
+('two', 'seven')
+27
+====
+nrvtvlhrlr3tvpck1ghbvzxhjkneightgzxgtcddk
+[(10, '3'), (16, '1'), (27, 'eight')]
+('3', 'eight')
+38
+====
+7lsxfjhqz
+[(0, '7')]
+7
+7
+====
+28four
+[(0, '2'), (1, '8'), (2, 'four')]
+('2', 'four')
+24
+====
+mninetwo3
+[(1, 'nine'), (5, 'two'), (8, '3')]
+('nine', '3')
+93
+====
+1fourfxqjpggbpb9threelj
+[(0, '1'), (1, 'four'), (15, '9'), (16, 'three')]
+('1', 'three')
+13
+====
+seven3pzkfbqdstdgkrskqrlbg7fzfour4n
+[(0, 'seven'), (5, '3'), (26, '7'), (29, 'four'), (33, '4')]
+('seven', '4')
+74
+====
+btctmct9three6threegkqqkcskfs8chvmcl
+[(7, '9'), (8, 'three'), (13, '6'), (14, 'three'), (29, '8')]
+('9', '8')
+98
+====
+threefourskdp6twob
+[(0, 'three'), (5, 'four'), (13, '6'), (14, 'two')]
+('three', 'two')
+32
+====
+7three6five6eight3
+[(0, '7'), (1, 'three'), (6, '6'), (7, 'five'), (11, '6'), (12, 'eight'), (17, '3')]
+('7', '3')
+73
+====
+5spkb6
+[(0, '5'), (5, '6')]
+('5', '6')
+56
+====
+34msnt
+[(0, '3'), (1, '4')]
+('3', '4')
+34
+====
+5bkqbzpgmjzeight
+[(0, '5'), (11, 'eight')]
+('5', 'eight')
+58
+====
+7g2onefour29fourfour
+[(0, '7'), (2, '2'), (3, 'one'), (6, 'four'), (10, '2'), (11, '9'), (12, 'four'), (16, 'four')]
+('7', 'four')
+74
+====
+9fgsixzkbscvbxdsfive6spjfhzxbzvgbvrthreeoneightn
+[(0, '9'), (3, 'six'), (16, 'five'), (20, '6'), (35, 'three'), (40, 'one'), (42, 'eight')]
+('9', 'eight')
+98
+====
+rpbd255fournine
+[(4, '2'), (5, '5'), (6, '5'), (7, 'four'), (11, 'nine')]
+('2', 'nine')
+29
+====
+277five
+[(0, '2'), (1, '7'), (2, '7'), (3, 'five')]
+('2', 'five')
+25
+====
+eightseven7sevenllninefive
+[(0, 'eight'), (5, 'seven'), (10, '7'), (11, 'seven'), (18, 'nine'), (22, 'five')]
+('eight', 'five')
+85
+====
+rpjcmzkthbvdflbhxxkpv3oneplglgmv
+[(21, '3'), (22, 'one')]
+('3', 'one')
+31
+====
+xqktwone5jkpxvnptjeight
+[(3, 'two'), (5, 'one'), (8, '5'), (18, 'eight')]
+('two', 'eight')
+28
+====
+67one
+[(0, '6'), (1, '7'), (2, 'one')]
+('6', 'one')
+61
+====
+cgxfhzsnrsjp3kjgzrlbhzh
+[(12, '3')]
+3
+3
+====
+fiveqqjljzfcmbfqvkscpzscpseven4nine1xvjlgk
+[(0, 'five'), (25, 'seven'), (30, '4'), (31, 'nine'), (35, '1')]
+('five', '1')
+51
+====
+tflkxnml5vptclnhkgdg11c2seven
+[(8, '5'), (20, '1'), (21, '1'), (23, '2'), (24, 'seven')]
+('5', 'seven')
+57
+====
+sixeighttdbczshg82threepmjnxrvcnine6
+[(0, 'six'), (3, 'eight'), (16, '8'), (17, '2'), (18, 'three'), (31, 'nine'), (35, '6')]
+('six', '6')
+66
+====
+nineone81mkltdkfgxtsevenfive
+[(0, 'nine'), (4, 'one'), (7, '8'), (8, '1'), (19, 'seven'), (24, 'five')]
+('nine', 'five')
+95
+====
+8zgx
+[(0, '8')]
+8
+8
+====
+cvb4kv22gp
+[(3, '4'), (6, '2'), (7, '2')]
+('4', '2')
+42
+====
+61bjllhkblllqx8bmr5threesix
+[(0, '6'), (1, '1'), (14, '8'), (18, '5'), (19, 'three'), (24, 'six')]
+('6', 'six')
+66
+====
+9cjfgb1bxncrgfhtmg973
+[(0, '9'), (6, '1'), (18, '9'), (19, '7'), (20, '3')]
+('9', '3')
+93
+====
+eightninefour5twosixbsvnsndhtghtmfive
+[(0, 'eight'), (5, 'nine'), (9, 'four'), (13, '5'), (14, 'two'), (17, 'six'), (33, 'five')]
+('eight', 'five')
+85
+====
+seven1bbfrvdcsthree2
+[(0, 'seven'), (5, '1'), (14, 'three'), (19, '2')]
+('seven', '2')
+72
+====
+cfzd8hvqscjxqf9
+[(4, '8'), (14, '9')]
+('8', '9')
+89
+====
+sixvfkcgmvqn9vmbzccdmqqgxmfxmnqc95
+[(0, 'six'), (12, '9'), (32, '9'), (33, '5')]
+('six', '5')
+65
+====
+qqrqnd8twofive7czxtjnmxx
+[(6, '8'), (7, 'two'), (10, 'five'), (14, '7')]
+('8', '7')
+87
+====
+threebdmrlnxnlmdbzbv4
+[(0, 'three'), (20, '4')]
+('three', '4')
+34
+====
+nm91vblgfourtsjp6
+[(2, '9'), (3, '1'), (8, 'four'), (16, '6')]
+('9', '6')
+96
+====
+six96
+[(0, 'six'), (3, '9'), (4, '6')]
+('six', '6')
+66
+====
+sevenrjvbxptl9onecrlz
+[(0, 'seven'), (13, '9'), (14, 'one')]
+('seven', 'one')
+71
+====
+dvdbrmchgpninenine4onedjcfoneninetwo
+[(10, 'nine'), (14, 'nine'), (18, '4'), (19, 'one'), (26, 'one'), (29, 'nine'), (33, 'two')]
+('nine', 'two')
+92
+====
+hcrrgnlxftwo6four
+[(9, 'two'), (12, '6'), (13, 'four')]
+('two', 'four')
+24
+====
+threehcrfknsnqmg49
+[(0, 'three'), (16, '4'), (17, '9')]
+('three', '9')
+39
+====
+2tqbrkxgtdztjkdcnsix6three
+[(0, '2'), (17, 'six'), (20, '6'), (21, 'three')]
+('2', 'three')
+23
+====
+mktnzjn58qspzpqdr7
+[(7, '5'), (8, '8'), (17, '7')]
+('5', '7')
+57
+====
+dphvck5fourbmfnskkh72five78
+[(6, '5'), (7, 'four'), (19, '7'), (20, '2'), (21, 'five'), (25, '7'), (26, '8')]
+('5', '8')
+58
+====
+one7seven7
+[(0, 'one'), (3, '7'), (4, 'seven'), (9, '7')]
+('one', '7')
+17
+====
+bmpnljsxhfmtwozrhvdv8sjsrmnzlcjvjqcfgffhkjcbx
+[(11, 'two'), (20, '8')]
+('two', '8')
+28
+====
+7one6874
+[(0, '7'), (1, 'one'), (4, '6'), (5, '8'), (6, '7'), (7, '4')]
+('7', '4')
+74
+====
+three9tfx4
+[(0, 'three'), (5, '9'), (9, '4')]
+('three', '4')
+34
+====
+eight9pqhseightndgbv6
+[(0, 'eight'), (5, '9'), (10, 'eight'), (20, '6')]
+('eight', '6')
+86
+====
+39jgmbzrzkctsix
+[(0, '3'), (1, '9'), (12, 'six')]
+('3', 'six')
+36
+====
+1676
+[(0, '1'), (1, '6'), (2, '7'), (3, '6')]
+('1', '6')
+16
+====
+8xtpdhzfd8three44four8two
+[(0, '8'), (9, '8'), (10, 'three'), (15, '4'), (16, '4'), (17, 'four'), (21, '8'), (22, 'two')]
+('8', 'two')
+82
+====
+sixkvlppxqktkdqjsgjgz5
+[(0, 'six'), (21, '5')]
+('six', '5')
+65
+====
+twoonehbgsdhpxkdvnpr3ncrgbqzfvsbcdsix4
+[(0, 'two'), (3, 'one'), (20, '3'), (34, 'six'), (37, '4')]
+('two', '4')
+24
+====
+39kpdxsp368seven2
+[(0, '3'), (1, '9'), (8, '3'), (9, '6'), (10, '8'), (11, 'seven'), (16, '2')]
+('3', '2')
+32
+====
+xfljqfbz5tzpldspxvgc
+[(8, '5')]
+5
+5
+====
+fourqb6twocfljflzqqd
+[(0, 'four'), (6, '6'), (7, 'two')]
+('four', 'two')
+42
+====
+5889cxvxkstlld75rnlgzpgmhcmnx
+[(0, '5'), (1, '8'), (2, '8'), (3, '9'), (14, '7'), (15, '5')]
+('5', '5')
+55
+====
+84zxqsqvb
+[(0, '8'), (1, '4')]
+('8', '4')
+84
+====
+fiveksvtbqz9934
+[(0, 'five'), (11, '9'), (12, '9'), (13, '3'), (14, '4')]
+('five', '4')
+54
+====
+onefour96four78fourkbkhdhg
+[(0, 'one'), (3, 'four'), (7, '9'), (8, '6'), (9, 'four'), (13, '7'), (14, '8'), (15, 'four')]
+('one', 'four')
+14
+====
+h61three2v
+[(1, '6'), (2, '1'), (3, 'three'), (8, '2')]
+('6', '2')
+62
+====
+nine9jlbrfmgjv2kkfive
+[(0, 'nine'), (4, '9'), (14, '2'), (17, 'five')]
+('nine', 'five')
+95
+====
+bjhktrjmfninexxnjhrvq7
+[(9, 'nine'), (21, '7')]
+('nine', '7')
+97
+====
+fbcxlvgkkjcmpdcz7
+[(16, '7')]
+7
+7
+====
+mnleight3oneqqttlp
+[(3, 'eight'), (8, '3'), (9, 'one')]
+('eight', 'one')
+81
+====
+eighttwolffour1
+[(0, 'eight'), (5, 'two'), (10, 'four'), (14, '1')]
+('eight', '1')
+81
+====
+onetqfghfourbmf5
+[(0, 'one'), (8, 'four'), (15, '5')]
+('one', '5')
+15
+====
+four1qfive4
+[(0, 'four'), (4, '1'), (6, 'five'), (10, '4')]
+('four', '4')
+44
+====
+9fvp
+[(0, '9')]
+9
+9
+====
+cxxn5qzcm
+[(4, '5')]
+5
+5
+====
+one7hzjpnvhtdq
+[(0, 'one'), (3, '7')]
+('one', '7')
+17
+====
+pxmht4fprcftwofive7gsixcqbmrd
+[(5, '4'), (11, 'two'), (14, 'five'), (18, '7'), (20, 'six')]
+('4', 'six')
+46
+====
+three9fivesixrdqrhcqrqbl
+[(0, 'three'), (5, '9'), (6, 'five'), (10, 'six')]
+('three', 'six')
+36
+====
+6fggvr
+[(0, '6')]
+6
+6
+====
+ninesixmxvdcqgxcmskl115lskkp
+[(0, 'nine'), (4, 'six'), (20, '1'), (21, '1'), (22, '5')]
+('nine', '5')
+95
+====
+sevenqkmqxltfive191lfbtfvzsixseven
+[(0, 'seven'), (12, 'five'), (16, '1'), (17, '9'), (18, '1'), (26, 'six'), (29, 'seven')]
+('seven', 'seven')
+77
+====
+ninemjnjgrlmnlseven5eight9
+[(0, 'nine'), (14, 'seven'), (19, '5'), (20, 'eight'), (25, '9')]
+('nine', '9')
+99
+====
+fhjjtxzksseven7fourthree
+[(9, 'seven'), (14, '7'), (15, 'four'), (19, 'three')]
+('seven', 'three')
+73
+====
+rfjksvfour26vqbdrbxc
+[(6, 'four'), (10, '2'), (11, '6')]
+('four', '6')
+46
+====
+6zgkfive8mhgxbsm
+[(0, '6'), (4, 'five'), (8, '8')]
+('6', '8')
+68
+====
+1njpjv696
+[(0, '1'), (6, '6'), (7, '9'), (8, '6')]
+('1', '6')
+16
+====
+4lrthsevendnsmseven
+[(0, '4'), (5, 'seven'), (14, 'seven')]
+('4', 'seven')
+47
+====
+l4hxvjvlfpjmdbvdjzrhkhpmklnine7fourfour
+[(1, '4'), (26, 'nine'), (30, '7'), (31, 'four'), (35, 'four')]
+('4', 'four')
+44
+====
+2qtkhnineeightone
+[(0, '2'), (5, 'nine'), (9, 'eight'), (14, 'one')]
+('2', 'one')
+21
+====
+fivexhrxrzxht1foursix
+[(0, 'five'), (13, '1'), (14, 'four'), (18, 'six')]
+('five', 'six')
+56
+====
+sixlzcgllrqlhghzn1hdhgltcntfivefourfive1
+[(0, 'six'), (17, '1'), (27, 'five'), (31, 'four'), (35, 'five'), (39, '1')]
+('six', '1')
+61
+====
+dpkzdbzsgq9threecst7znsjgdmmhx1
+[(10, '9'), (11, 'three'), (19, '7'), (30, '1')]
+('9', '1')
+91
+====
+three497lp388
+[(0, 'three'), (5, '4'), (6, '9'), (7, '7'), (10, '3'), (11, '8'), (12, '8')]
+('three', '8')
+38
+====
+llnklrkfr3
+[(9, '3')]
+3
+3
+====
+ltkkv481pzhqzkmhskxlznineninekcbrphlp
+[(5, '4'), (6, '8'), (7, '1'), (21, 'nine'), (25, 'nine')]
+('4', 'nine')
+49
+====
+fivetwoseven71nineljsbc49
+[(0, 'five'), (4, 'two'), (7, 'seven'), (12, '7'), (13, '1'), (14, 'nine'), (23, '4'), (24, '9')]
+('five', '9')
+59
+====
+bvqsxnkpmzsevenhdpvfvlb2eight2bdxp3
+[(10, 'seven'), (23, '2'), (24, 'eight'), (29, '2'), (34, '3')]
+('seven', '3')
+73
+====
+onefour64
+[(0, 'one'), (3, 'four'), (7, '6'), (8, '4')]
+('one', '4')
+14
+====
+8xfdtfnqvhzkhvszeight5
+[(0, '8'), (16, 'eight'), (21, '5')]
+('8', '5')
+85
+====
+threethree4two
+[(0, 'three'), (5, 'three'), (10, '4'), (11, 'two')]
+('three', 'two')
+32
+====
+z5two2fp
+[(1, '5'), (2, 'two'), (5, '2')]
+('5', '2')
+52
+====
+fourvjmcghrcfoureight3
+[(0, 'four'), (12, 'four'), (16, 'eight'), (21, '3')]
+('four', '3')
+43
+====
+lhztwo9dzhpdgn675
+[(3, 'two'), (6, '9'), (14, '6'), (15, '7'), (16, '5')]
+('two', '5')
+25
+====
+jnine4two49sixskv
+[(1, 'nine'), (5, '4'), (6, 'two'), (9, '4'), (10, '9'), (11, 'six')]
+('nine', 'six')
+96
+====
+9phbnnsoneqtpvvzbx5xzc
+[(0, '9'), (7, 'one'), (18, '5')]
+('9', '5')
+95
+====
+mtjfxzzhzdjvfmrc1
+[(16, '1')]
+1
+1
+====
+4ccszl3fiveseven55lfmktz
+[(0, '4'), (6, '3'), (7, 'five'), (11, 'seven'), (16, '5'), (17, '5')]
+('4', '5')
+45
+====
+five27three9mgrnjcsbpd
+[(0, 'five'), (4, '2'), (5, '7'), (6, 'three'), (11, '9')]
+('five', '9')
+59
+====
+6eight115five4c
+[(0, '6'), (1, 'eight'), (6, '1'), (7, '1'), (8, '5'), (9, 'five'), (13, '4')]
+('6', '4')
+64
+====
+two63fjlkgninepthmone
+[(0, 'two'), (3, '6'), (4, '3'), (10, 'nine'), (18, 'one')]
+('two', 'one')
+21
+====
+22ddxpbbpdseven
+[(0, '2'), (1, '2'), (10, 'seven')]
+('2', 'seven')
+27
+====
+zg7
+[(2, '7')]
+7
+7
+====
+five3gvbthree6hjseven
+[(0, 'five'), (4, '3'), (8, 'three'), (13, '6'), (16, 'seven')]
+('five', 'seven')
+57
+====
+x6six58nine
+[(1, '6'), (2, 'six'), (5, '5'), (6, '8'), (7, 'nine')]
+('6', 'nine')
+69
+====
+seveneighteight75three9two9
+[(0, 'seven'), (5, 'eight'), (10, 'eight'), (15, '7'), (16, '5'), (17, 'three'), (22, '9'), (23, 'two'), (26, '9')]
+('seven', '9')
+79
+====
+onevlpdgsnl3
+[(0, 'one'), (11, '3')]
+('one', '3')
+13
+====
+sevenmbvqmjhfnzmgsqp8qnskjzptpppbcfhck2
+[(0, 'seven'), (20, '8'), (38, '2')]
+('seven', '2')
+72
+====
+7bpldrqr6fourpsntqbcqhfive
+[(0, '7'), (8, '6'), (9, 'four'), (22, 'five')]
+('7', 'five')
+75
+====
+twothvddvmlbqknrj9pgpsjndbrmrgkgf
+[(0, 'two'), (17, '9')]
+('two', '9')
+29
+====
+sixthree38onefoureightmvdtnn
+[(0, 'six'), (3, 'three'), (8, '3'), (9, '8'), (10, 'one'), (13, 'four'), (17, 'eight')]
+('six', 'eight')
+68
+====
+vkqcnfkkc6
+[(9, '6')]
+6
+6
+====
+sixeight9
+[(0, 'six'), (3, 'eight'), (8, '9')]
+('six', '9')
+69
+====
+65fouronemklfgqbpgnvlvcvhjcdkq
+[(0, '6'), (1, '5'), (2, 'four'), (6, 'one')]
+('6', 'one')
+61
+====
+three5five
+[(0, 'three'), (5, '5'), (6, 'five')]
+('three', 'five')
+35
+====
+981gxpsgqxjktwogninezgnf
+[(0, '9'), (1, '8'), (2, '1'), (12, 'two'), (16, 'nine')]
+('9', 'nine')
+99
+====
+cfnnzfnlmfqtwofour8fourxg5
+[(11, 'two'), (14, 'four'), (18, '8'), (19, 'four'), (25, '5')]
+('two', '5')
+25
+====
+45mpgbgzctwoqlsxmgs8
+[(0, '4'), (1, '5'), (9, 'two'), (19, '8')]
+('4', '8')
+48
+====
+5nhzlcb6four6pzjjlr4ninej
+[(0, '5'), (7, '6'), (8, 'four'), (12, '6'), (19, '4'), (20, 'nine')]
+('5', 'nine')
+59
+====
+gnkoneightprhlrseven7
+[(3, 'one'), (5, 'eight'), (15, 'seven'), (20, '7')]
+('one', '7')
+17
+====
+1rzsq1seven3eight
+[(0, '1'), (5, '1'), (6, 'seven'), (11, '3'), (12, 'eight')]
+('1', 'eight')
+18
+====
+sixnine9eight8eight
+[(0, 'six'), (3, 'nine'), (7, '9'), (8, 'eight'), (13, '8'), (14, 'eight')]
+('six', 'eight')
+68
+====
+lcszz858
+[(5, '8'), (6, '5'), (7, '8')]
+('8', '8')
+88
+====
+pdgbgjxthreethree3threeonengk
+[(7, 'three'), (12, 'three'), (17, '3'), (18, 'three'), (23, 'one')]
+('three', 'one')
+31
+====
+8zpzpttrqtwoninek895
+[(0, '8'), (9, 'two'), (12, 'nine'), (17, '8'), (18, '9'), (19, '5')]
+('8', '5')
+85
+====
+634jgvbvr
+[(0, '6'), (1, '3'), (2, '4')]
+('6', '4')
+64
+====
+nine8mvr
+[(0, 'nine'), (4, '8')]
+('nine', '8')
+98
+====
+5seven2psmtnmzdfivesix
+[(0, '5'), (1, 'seven'), (6, '2'), (15, 'five'), (19, 'six')]
+('5', 'six')
+56
+====
+56ninerqrlzqvszrght6zkgtvrphpnvthree
+[(0, '5'), (1, '6'), (2, 'nine'), (19, '6'), (31, 'three')]
+('5', 'three')
+53
+====
+5fiveone
+[(0, '5'), (1, 'five'), (5, 'one')]
+('5', 'one')
+51
+====
+43three
+[(0, '4'), (1, '3'), (2, 'three')]
+('4', 'three')
+43
+====
+9mdtghvfjdqqbrmeightfour92tlstxvrhthree
+[(0, '9'), (15, 'eight'), (20, 'four'), (24, '9'), (25, '2'), (34, 'three')]
+('9', 'three')
+93
+====
+b8
+[(1, '8')]
+8
+8
+====
+ninehpnmdhjqjl5ppptrd
+[(0, 'nine'), (14, '5')]
+('nine', '5')
+95
+====
+41fournineeightvxxjdthreeeight
+[(0, '4'), (1, '1'), (2, 'four'), (6, 'nine'), (10, 'eight'), (20, 'three'), (25, 'eight')]
+('4', 'eight')
+48
+====
+ntwonefnsdpnine8sevenbjzxpfive
+[(1, 'two'), (3, 'one'), (11, 'nine'), (15, '8'), (16, 'seven'), (26, 'five')]
+('two', 'five')
+25
+====
+6oneclxflmxvtwo1
+[(0, '6'), (1, 'one'), (12, 'two'), (15, '1')]
+('6', '1')
+61
+====
+9jbpfnvfsjblmxrprml5
+[(0, '9'), (19, '5')]
+('9', '5')
+95
+====
+68five7sfgxjqxrcjmninerzgxnhjpzkdhxzbg
+[(0, '6'), (1, '8'), (2, 'five'), (6, '7'), (18, 'nine')]
+('6', 'nine')
+69
+====
+1vztdlnone2lhrhx
+[(0, '1'), (7, 'one'), (10, '2')]
+('1', '2')
+12
+====
+6lrmdrxqlsttwovsr9eightpbmqcxn
+[(0, '6'), (11, 'two'), (17, '9'), (18, 'eight')]
+('6', 'eight')
+68
+====
+2zjchhdbzhc
+[(0, '2')]
+2
+2
+====
+tsgntwomdtsjtdrthree9
+[(4, 'two'), (15, 'three'), (20, '9')]
+('two', '9')
+29
+====
+7threethreedprbrvngxpfour
+[(0, '7'), (1, 'three'), (6, 'three'), (21, 'four')]
+('7', 'four')
+74
+====
+fivestvv3six
+[(0, 'five'), (8, '3'), (9, 'six')]
+('five', 'six')
+56
+====
+6one9sjlzjtxxnkbckdmc
+[(0, '6'), (1, 'one'), (4, '9')]
+('6', '9')
+69
+====
+zxqzmcz3eight
+[(7, '3'), (8, 'eight')]
+('3', 'eight')
+38
+====
+lndh86xphvbnine
+[(4, '8'), (5, '6'), (11, 'nine')]
+('8', 'nine')
+89
+====
+fivesix3sixf93hbbptwo
+[(0, 'five'), (4, 'six'), (7, '3'), (8, 'six'), (12, '9'), (13, '3'), (18, 'two')]
+('five', 'two')
+52
+====
+3cxpbl
+[(0, '3')]
+3
+3
+====
+gsnqeight8kthxzrdkskjkmcmsknine5
+[(4, 'eight'), (9, '8'), (27, 'nine'), (31, '5')]
+('eight', '5')
+85
+====
+67twoxdqninefour
+[(0, '6'), (1, '7'), (2, 'two'), (8, 'nine'), (12, 'four')]
+('6', 'four')
+64
+====
+fivefivehtczfmrhvlsevensevennbjkvhz84
+[(0, 'five'), (4, 'five'), (18, 'seven'), (23, 'seven'), (35, '8'), (36, '4')]
+('five', '4')
+54
+====
+cmbgm3eightpbmgjhsp2
+[(5, '3'), (6, 'eight'), (19, '2')]
+('3', '2')
+32
+====
+fivepdhtcpvg3ninenlhpgdlnnine6fblsmlz
+[(0, 'five'), (12, '3'), (13, 'nine'), (25, 'nine'), (29, '6')]
+('five', '6')
+56
+====
+kcnsfsfhjbcffctznvp1
+[(19, '1')]
+1
+1
+====
+qzrkvhcds4gklftv
+[(9, '4')]
+4
+4
+====
+xslgkktct7snbxnplbk3five
+[(9, '7'), (19, '3'), (20, 'five')]
+('7', 'five')
+75
+====
+zspb1sevennine76one
+[(4, '1'), (5, 'seven'), (10, 'nine'), (14, '7'), (15, '6'), (16, 'one')]
+('1', 'one')
+11
+====
+twonxtngxlrftltqggpftj3eight1gsrkbbclll
+[(0, 'two'), (22, '3'), (23, 'eight'), (28, '1')]
+('two', '1')
+21
+====
+474jxtncx
+[(0, '4'), (1, '7'), (2, '4')]
+('4', '4')
+44
+====
+bxsqsb8
+[(6, '8')]
+8
+8
+====
+svsvvtzddklkrxmpd2
+[(17, '2')]
+2
+2
+====
+xbvjfmcnine2znbqn5eight2smvkgpclvs6
+[(7, 'nine'), (11, '2'), (17, '5'), (18, 'eight'), (23, '2'), (34, '6')]
+('nine', '6')
+96
+====
+tnlpfivem7
+[(4, 'five'), (9, '7')]
+('five', '7')
+57
+====
+7seveneight2dfiveonesix6
+[(0, '7'), (1, 'seven'), (6, 'eight'), (11, '2'), (13, 'five'), (17, 'one'), (20, 'six'), (23, '6')]
+('7', '6')
+76
+====
+fspcrlcthreej1seven4
+[(7, 'three'), (13, '1'), (14, 'seven'), (19, '4')]
+('three', '4')
+34
+====
+7nineeight3hzfour
+[(0, '7'), (1, 'nine'), (5, 'eight'), (10, '3'), (13, 'four')]
+('7', 'four')
+74
+====
+9fivethree
+[(0, '9'), (1, 'five'), (5, 'three')]
+('9', 'three')
+93
+====
+four5ggbseven
+[(0, 'four'), (4, '5'), (8, 'seven')]
+('four', 'seven')
+47
+====
+5hsv
+[(0, '5')]
+5
+5
+====
+1ppkkkhfzn
+[(0, '1')]
+1
+1
+====
+pkfzkpv9mtktjvrssdftslonebpmhf
+[(7, '9'), (22, 'one')]
+('9', 'one')
+91
+====
+8fhfqmzseven
+[(0, '8'), (7, 'seven')]
+('8', 'seven')
+87
+====
+six89htmnpmqsixzvxl
+[(0, 'six'), (3, '8'), (4, '9'), (12, 'six')]
+('six', 'six')
+66
+====
+9mbkcbnmptpkhqvvzxftss7
+[(0, '9'), (22, '7')]
+('9', '7')
+97
+====
+48five
+[(0, '4'), (1, '8'), (2, 'five')]
+('4', 'five')
+45
+====
+eight8118four7qsjb
+[(0, 'eight'), (5, '8'), (6, '1'), (7, '1'), (8, '8'), (9, 'four'), (13, '7')]
+('eight', '7')
+87
+====
+cpghtgncpkkxtrvrsgl81eightcfzsjfq6
+[(19, '8'), (20, '1'), (21, 'eight'), (33, '6')]
+('8', '6')
+86
+====
+ninecsthl8onefgpmc
+[(0, 'nine'), (9, '8'), (10, 'one')]
+('nine', 'one')
+91
+====
+3threehnrone5dzcfdtpf2hdlnrxnmnhjqqqn
+[(0, '3'), (1, 'three'), (9, 'one'), (12, '5'), (21, '2')]
+('3', '2')
+32
+====
+5ninesix54
+[(0, '5'), (1, 'nine'), (5, 'six'), (8, '5'), (9, '4')]
+('5', '4')
+54
+====
+lnzhtwo9446onefivefour
+[(4, 'two'), (7, '9'), (8, '4'), (9, '4'), (10, '6'), (11, 'one'), (14, 'five'), (18, 'four')]
+('two', 'four')
+24
+====
+8two427bvcdkckdgz8
+[(0, '8'), (1, 'two'), (4, '4'), (5, '2'), (6, '7'), (17, '8')]
+('8', '8')
+88
+====
+6six35seven
+[(0, '6'), (1, 'six'), (4, '3'), (5, '5'), (6, 'seven')]
+('6', 'seven')
+67
+====
+six2fcpzhbn6fivekm34
+[(0, 'six'), (3, '2'), (11, '6'), (12, 'five'), (18, '3'), (19, '4')]
+('six', '4')
+64
+====
+httmgldjfqnnhktmnhj4dsmffzknbq674
+[(19, '4'), (30, '6'), (31, '7'), (32, '4')]
+('4', '4')
+44
+====
+9nxrtsmqbcrgghqtx6kdnrfjq
+[(0, '9'), (17, '6')]
+('9', '6')
+96
+====
+thhmbpjldslpthkfxcfive1zrjqtpvjs8
+[(18, 'five'), (22, '1'), (32, '8')]
+('five', '8')
+58
+====
+cjtbcn7five9nlpgsoneone8
+[(6, '7'), (7, 'five'), (11, '9'), (17, 'one'), (20, 'one'), (23, '8')]
+('7', '8')
+78
+====
+seven6eightx176ffrvml8
+[(0, 'seven'), (5, '6'), (6, 'eight'), (12, '1'), (13, '7'), (14, '6'), (21, '8')]
+('seven', '8')
+78
+====
+eight9jntmr4sevenmzjb
+[(0, 'eight'), (5, '9'), (11, '4'), (12, 'seven')]
+('eight', 'seven')
+87
+====
+mxk51gt
+[(3, '5'), (4, '1')]
+('5', '1')
+51
+====
+three21foursevendbvm
+[(0, 'three'), (5, '2'), (6, '1'), (7, 'four'), (11, 'seven')]
+('three', 'seven')
+37
+====
+zqtdz1ninemmhkjfiveeight
+[(5, '1'), (6, 'nine'), (15, 'five'), (19, 'eight')]
+('1', 'eight')
+18
+====
+98xlpkzb
+[(0, '9'), (1, '8')]
+('9', '8')
+98
+====
+34two5four2cvtcjfdh
+[(0, '3'), (1, '4'), (2, 'two'), (5, '5'), (6, 'four'), (10, '2')]
+('3', '2')
+32
+====
+jvndgrtjonethree6
+[(8, 'one'), (11, 'three'), (16, '6')]
+('one', '6')
+16
+====
+ninefivefive1lfqjqmptxvthree
+[(0, 'nine'), (4, 'five'), (8, 'five'), (12, '1'), (23, 'three')]
+('nine', 'three')
+93
+====
+kkxfqqkf49
+[(8, '4'), (9, '9')]
+('4', '9')
+49
+====
+3sixseven3dzpvnvt51rnzljdprb
+[(0, '3'), (1, 'six'), (4, 'seven'), (9, '3'), (17, '5'), (18, '1')]
+('3', '1')
+31
+====
+hpzpdrnkthreekct1mqdvljhrls3
+[(8, 'three'), (16, '1'), (27, '3')]
+('three', '3')
+33
+====
+six6sjsljgvgzhrzqpsznh3fivejpxsvqccrc
+[(0, 'six'), (3, '6'), (22, '3'), (23, 'five')]
+('six', 'five')
+65
+====
+cpvlr7
+[(5, '7')]
+7
+7
+====
+tdgthree8twofivexxrvct
+[(3, 'three'), (8, '8'), (9, 'two'), (12, 'five')]
+('three', 'five')
+35
+====
+62sixmt9ninefour
+[(0, '6'), (1, '2'), (2, 'six'), (7, '9'), (8, 'nine'), (12, 'four')]
+('6', 'four')
+64
+====
+ninesevenfourzfzl43qssqrkktpnzjv
+[(0, 'nine'), (4, 'seven'), (9, 'four'), (17, '4'), (18, '3')]
+('nine', '3')
+93
+====
+8mfztzthreeldnjgsfseven
+[(0, '8'), (6, 'three'), (18, 'seven')]
+('8', 'seven')
+87
+====
+356
+[(0, '3'), (1, '5'), (2, '6')]
+('3', '6')
+36
+====
+6vrlthreer9sone6
+[(0, '6'), (4, 'three'), (10, '9'), (12, 'one'), (15, '6')]
+('6', '6')
+66
+====
+sixs8six5sevenvnkgbmxj2two
+[(0, 'six'), (4, '8'), (5, 'six'), (8, '5'), (9, 'seven'), (22, '2'), (23, 'two')]
+('six', 'two')
+62
+====
+8eightpglsknpxmsixjgqcftmvprjlcdsfks
+[(0, '8'), (1, 'eight'), (15, 'six')]
+('8', 'six')
+86
+====
+3dlkbc1
+[(0, '3'), (6, '1')]
+('3', '1')
+31
+====
+five5eight1
+[(0, 'five'), (4, '5'), (5, 'eight'), (10, '1')]
+('five', '1')
+51
+====
+7seven49
+[(0, '7'), (1, 'seven'), (6, '4'), (7, '9')]
+('7', '9')
+79
+====
+ggoneeightgcfnfkgbmlfourdls23
+[(2, 'one'), (5, 'eight'), (20, 'four'), (27, '2'), (28, '3')]
+('one', '3')
+13
+====
+seven6jdpxxkfone
+[(0, 'seven'), (5, '6'), (13, 'one')]
+('seven', 'one')
+71
+====
+lfive715
+[(1, 'five'), (5, '7'), (6, '1'), (7, '5')]
+('five', '5')
+55
+====
+2ninefivej2sixeight
+[(0, '2'), (1, 'nine'), (5, 'five'), (10, '2'), (11, 'six'), (14, 'eight')]
+('2', 'eight')
+28
+====
+ttwonethreethreesixzbqz7
+[(1, 'two'), (3, 'one'), (6, 'three'), (11, 'three'), (16, 'six'), (23, '7')]
+('two', '7')
+27
+====
+zmbqqcd8ztp46567
+[(7, '8'), (11, '4'), (12, '6'), (13, '5'), (14, '6'), (15, '7')]
+('8', '7')
+87
+====
+nineeight11
+[(0, 'nine'), (4, 'eight'), (9, '1'), (10, '1')]
+('nine', '1')
+91
+====
+zhgsixthreejffqhzdfvfxjpfmjqqkm36one
+[(3, 'six'), (6, 'three'), (31, '3'), (32, '6'), (33, 'one')]
+('six', 'one')
+61
+====
+5vgftjvqkxj6pnctdcrktwoneq
+[(0, '5'), (11, '6'), (20, 'two'), (22, 'one')]
+('5', 'one')
+51
+====
+9ptmkf8six
+[(0, '9'), (6, '8'), (7, 'six')]
+('9', 'six')
+96
+====
+lbjxvnfiverjppbtrhf6xbdnsltlnrqsgmx8q
+[(6, 'five'), (19, '6'), (35, '8')]
+('five', '8')
+58
+====
+365pxj63gshpg
+[(0, '3'), (1, '6'), (2, '5'), (6, '6'), (7, '3')]
+('3', '3')
+33
+====
+vlq5zhgj4
+[(3, '5'), (8, '4')]
+('5', '4')
+54
+====
+98hc13nnrzfzschg64
+[(0, '9'), (1, '8'), (4, '1'), (5, '3'), (16, '6'), (17, '4')]
+('9', '4')
+94
+====
+2twopq76kpmjdjflkqzxlvjhr
+[(0, '2'), (1, 'two'), (6, '7'), (7, '6')]
+('2', '6')
+26
+====
+rnvmblqhq1
+[(9, '1')]
+1
+1
+====
+8j273qfpfkz
+[(0, '8'), (2, '2'), (3, '7'), (4, '3')]
+('8', '3')
+83
+====
+dsevenvvdmxhhcd1dkz
+[(1, 'seven'), (15, '1')]
+('seven', '1')
+71
+====
+lkqhrxkmp96fppvsdtwombkfour
+[(9, '9'), (10, '6'), (17, 'two'), (23, 'four')]
+('9', 'four')
+94
+====
+3one7dzpbhsrdf5
+[(0, '3'), (1, 'one'), (4, '7'), (14, '5')]
+('3', '5')
+35
+====
+159ckggpfzlgntfrddvfiveeightthree9eightwodnp
+[(0, '1'), (1, '5'), (2, '9'), (19, 'five'), (23, 'eight'), (28, 'three'), (33, '9'), (34, 'eight'), (38, 'two')]
+('1', 'two')
+12
+====
+eightseventhreeseven1
+[(0, 'eight'), (5, 'seven'), (10, 'three'), (15, 'seven'), (20, '1')]
+('eight', '1')
+81
+====
+mrzpk8
+[(5, '8')]
+8
+8
+====
+fmvxth2eight8hjmfkdxjh
+[(6, '2'), (7, 'eight'), (12, '8')]
+('2', '8')
+28
+====
+3threeone
+[(0, '3'), (1, 'three'), (6, 'one')]
+('3', 'one')
+31
+====
+nine5sixsixnzlqhsc
+[(0, 'nine'), (4, '5'), (5, 'six'), (8, 'six')]
+('nine', 'six')
+96
+====
+xtxbgtntwosixfour85
+[(7, 'two'), (10, 'six'), (13, 'four'), (17, '8'), (18, '5')]
+('two', '5')
+25
+====
+3eighthz4twoqmlhrzsevenkcqhgrghrd
+[(0, '3'), (1, 'eight'), (8, '4'), (9, 'two'), (18, 'seven')]
+('3', 'seven')
+37
+====
+12ldchpqzm
+[(0, '1'), (1, '2')]
+('1', '2')
+12
+====
+zcfjz5sixmqqmfsv9six6
+[(5, '5'), (6, 'six'), (16, '9'), (17, 'six'), (20, '6')]
+('5', '6')
+56
+====
+sixlzcdtd3qlcjqzrtthnine
+[(0, 'six'), (9, '3'), (20, 'nine')]
+('six', 'nine')
+69
+====
+1one6nine
+[(0, '1'), (1, 'one'), (4, '6'), (5, 'nine')]
+('1', 'nine')
+19
+====
+11xqblttcrdvgb7mdqkphrbdx
+[(0, '1'), (1, '1'), (14, '7')]
+('1', '7')
+17
+====
+xbcc4mtgf5
+[(4, '4'), (9, '5')]
+('4', '5')
+45
+====
+sevenfourmthree1hgpnmvcvgshzvcsjdbqqgmt
+[(0, 'seven'), (5, 'four'), (10, 'three'), (15, '1')]
+('seven', '1')
+71
+====
+v5xmghdgbkvnine
+[(1, '5'), (11, 'nine')]
+('5', 'nine')
+59
+====
+29mkpfz7
+[(0, '2'), (1, '9'), (7, '7')]
+('2', '7')
+27
+====
+jptwo4lqlrh2onefive7jhcngr
+[(2, 'two'), (5, '4'), (11, '2'), (12, 'one'), (15, 'five'), (19, '7')]
+('two', '7')
+27
+====
+four6twosixsthjqpgh2
+[(0, 'four'), (4, '6'), (5, 'two'), (8, 'six'), (19, '2')]
+('four', '2')
+42
+====
+pctrvkmc82four2958
+[(8, '8'), (9, '2'), (10, 'four'), (14, '2'), (15, '9'), (16, '5'), (17, '8')]
+('8', '8')
+88
+====
+12eight3
+[(0, '1'), (1, '2'), (2, 'eight'), (7, '3')]
+('1', '3')
+13
+====
+7jbqeightlbbnpsvvdfrqccb
+[(0, '7'), (4, 'eight')]
+('7', 'eight')
+78
+====
+peightwo6sevenfoursixdmchsd1
+[(1, 'eight'), (5, 'two'), (8, '6'), (9, 'seven'), (14, 'four'), (18, 'six'), (27, '1')]
+('eight', '1')
+81
+====
+53dhphzvhnknt65ninefive
+[(0, '5'), (1, '3'), (13, '6'), (14, '5'), (15, 'nine'), (19, 'five')]
+('5', 'five')
+55
+====
+86fivegpnhl
+[(0, '8'), (1, '6'), (2, 'five')]
+('8', 'five')
+85
+====
+tpcspvvncglcsqjzlqrfivejgfl8zspdltrd7
+[(19, 'five'), (27, '8'), (36, '7')]
+('five', '7')
+57
+====
+mhpskcvhn3bkjlmqd
+[(9, '3')]
+3
+3
+====
+onetwo4lxmsnddzfbxcdcscjxxrzsvvzg3nvtrpncvpmc
+[(0, 'one'), (3, 'two'), (6, '4'), (33, '3')]
+('one', '3')
+13
+====
+fprqq1bpqxvjmblc17
+[(5, '1'), (16, '1'), (17, '7')]
+('1', '7')
+17
+====
+four7ninenineksjcktcbtzsmrfr
+[(0, 'four'), (4, '7'), (5, 'nine'), (9, 'nine')]
+('four', 'nine')
+49
+====
+3nineccrnhtgg2knczqnnineoneqsgm
+[(0, '3'), (1, 'nine'), (13, '2'), (20, 'nine'), (24, 'one')]
+('3', 'one')
+31
+====
+4xnkljmg7lmfvrhxm96
+[(0, '4'), (8, '7'), (17, '9'), (18, '6')]
+('4', '6')
+46
+====
+five458eighteightxcgrnine
+[(0, 'five'), (4, '4'), (5, '5'), (6, '8'), (7, 'eight'), (12, 'eight'), (21, 'nine')]
+('five', 'nine')
+59
+====
+klrzfbrpkmtptdscktmcsqg5xonesix
+[(23, '5'), (25, 'one'), (28, 'six')]
+('5', 'six')
+56
+====
+vtmh1glhzlkmrlgfourpsbhtbrvdz57one
+[(4, '1'), (15, 'four'), (29, '5'), (30, '7'), (31, 'one')]
+('1', 'one')
+11
+====
+9eight53threethreepgnc
+[(0, '9'), (1, 'eight'), (6, '5'), (7, '3'), (8, 'three'), (13, 'three')]
+('9', 'three')
+93
+====
+fourseven3fivefq57
+[(0, 'four'), (4, 'seven'), (9, '3'), (10, 'five'), (16, '5'), (17, '7')]
+('four', '7')
+47
+====
+5sixsixthreegdsrhkhdlk3six
+[(0, '5'), (1, 'six'), (4, 'six'), (7, 'three'), (22, '3'), (23, 'six')]
+('5', 'six')
+56
+====
+v9xqhpzkfivebnjslbzh548
+[(1, '9'), (8, 'five'), (20, '5'), (21, '4'), (22, '8')]
+('9', '8')
+98
+====
+jssdslcxxv3sdhbqnine5sixeight2
+[(10, '3'), (16, 'nine'), (20, '5'), (21, 'six'), (24, 'eight'), (29, '2')]
+('3', '2')
+32
+====
+vr1
+[(2, '1')]
+1
+1
+====
+eightsoneqrrqfoursixzngsths9three
+[(0, 'eight'), (6, 'one'), (13, 'four'), (17, 'six'), (27, '9'), (28, 'three')]
+('eight', 'three')
+83
+====
+ltwoltrplmlkzz5sssjmzgcjsixfivejhms
+[(1, 'two'), (14, '5'), (24, 'six'), (27, 'five')]
+('two', 'five')
+25
+====
+49one
+[(0, '4'), (1, '9'), (2, 'one')]
+('4', 'one')
+41
+====
+2sevenfivethlgxmxssnvlsfst4
+[(0, '2'), (1, 'seven'), (6, 'five'), (26, '4')]
+('2', '4')
+24
+====
+8slfnfsfk
+[(0, '8')]
+8
+8
+====
+fourszbtpvvlvppsqbsprthreexgrlp3zt4
+[(0, 'four'), (21, 'three'), (31, '3'), (34, '4')]
+('four', '4')
+44
+====
+seveneight8rhonectrmxrjvnnthreetxmfbvxtlt9
+[(0, 'seven'), (5, 'eight'), (10, '8'), (13, 'one'), (26, 'three'), (41, '9')]
+('seven', '9')
+79
+====
+twofive6eight9
+[(0, 'two'), (3, 'five'), (7, '6'), (8, 'eight'), (13, '9')]
+('two', '9')
+29
+====
+zqxpxlzjm3hmzjzgoneeight1seventwo
+[(9, '3'), (16, 'one'), (19, 'eight'), (24, '1'), (25, 'seven'), (30, 'two')]
+('3', 'two')
+32
+====
+9xbmqqtkstflg6onem2tdfsfjnxdmmzlrcnpm
+[(0, '9'), (13, '6'), (14, 'one'), (18, '2')]
+('9', '2')
+92
+====
+pgcxbqvvj6
+[(9, '6')]
+6
+6
+====
+xfsix893
+[(2, 'six'), (5, '8'), (6, '9'), (7, '3')]
+('six', '3')
+63
+====
+7four1
+[(0, '7'), (1, 'four'), (5, '1')]
+('7', '1')
+71
+====
+63five
+[(0, '6'), (1, '3'), (2, 'five')]
+('6', 'five')
+65
+====
+tr9chvmlhhv6
+[(2, '9'), (11, '6')]
+('9', '6')
+96
+====
+jxc2six452
+[(3, '2'), (4, 'six'), (7, '4'), (8, '5'), (9, '2')]
+('2', '2')
+22
+====
+11zvz
+[(0, '1'), (1, '1')]
+('1', '1')
+11
+====
+oneqkhstmkhb11fourninezs37
+[(0, 'one'), (12, '1'), (13, '1'), (14, 'four'), (18, 'nine'), (24, '3'), (25, '7')]
+('one', '7')
+17
+====
+3mxf3slhhs
+[(0, '3'), (4, '3')]
+('3', '3')
+33
+====
+sixgdnljsfkfnffp67789nvgc
+[(0, 'six'), (16, '6'), (17, '7'), (18, '7'), (19, '8'), (20, '9')]
+('six', '9')
+69
+====
+sxptjdmqfv1eightsevenfpxpdnrtnqkdxhnzdm
+[(10, '1'), (11, 'eight'), (16, 'seven')]
+('1', 'seven')
+17
+====
+grdgt9ninedxnqhrts
+[(5, '9'), (6, 'nine')]
+('9', 'nine')
+99
+====
+8sevenxcsl1
+[(0, '8'), (1, 'seven'), (10, '1')]
+('8', '1')
+81
+====
+fiveeighttwo5
+[(0, 'five'), (4, 'eight'), (9, 'two'), (12, '5')]
+('five', '5')
+55
+====
+bgroneight2pgzdpnzgchkq1
+[(3, 'one'), (5, 'eight'), (10, '2'), (23, '1')]
+('one', '1')
+11
+====
+5twozc62foursixeight
+[(0, '5'), (1, 'two'), (6, '6'), (7, '2'), (8, 'four'), (12, 'six'), (15, 'eight')]
+('5', 'eight')
+58
+====
+six61
+[(0, 'six'), (3, '6'), (4, '1')]
+('six', '1')
+61
+====
+cbxzoneeight1
+[(4, 'one'), (7, 'eight'), (12, '1')]
+('one', '1')
+11
+====
+hntwonebmslklfkfgpngvffour5
+[(2, 'two'), (4, 'one'), (22, 'four'), (26, '5')]
+('two', '5')
+25
+====
+1262ninemdjsrdk
+[(0, '1'), (1, '2'), (2, '6'), (3, '2'), (4, 'nine')]
+('1', 'nine')
+19
+====
+roneightqnjseven2
+[(1, 'one'), (3, 'eight'), (11, 'seven'), (16, '2')]
+('one', '2')
+12
+====
+rmnpjzflcmqdrdseven3
+[(14, 'seven'), (19, '3')]
+('seven', '3')
+73
+====
+ltwollzgvr1fiveeightjvv7
+[(1, 'two'), (10, '1'), (11, 'five'), (15, 'eight'), (23, '7')]
+('two', '7')
+27
+====
+kkc5fourfive89
+[(3, '5'), (4, 'four'), (8, 'five'), (12, '8'), (13, '9')]
+('5', '9')
+59
+====
+cqnnhjxp4dtt
+[(8, '4')]
+4
+4
+====
+jeightwo1fgtlfpsixtwo9pptcpmjjsixone
+[(1, 'eight'), (5, 'two'), (8, '1'), (15, 'six'), (18, 'two'), (21, '9'), (30, 'six'), (33, 'one')]
+('eight', 'one')
+81
+====
+832
+[(0, '8'), (1, '3'), (2, '2')]
+('8', '2')
+82
+====
+9eightkhlprvq7seven
+[(0, '9'), (1, 'eight'), (13, '7'), (14, 'seven')]
+('9', 'seven')
+97
+====
+ninegeightbfvnvvnpslspcmscvqcqb6
+[(0, 'nine'), (5, 'eight'), (31, '6')]
+('nine', '6')
+96
+====
+jgksh2lkss6onexznvfhq
+[(5, '2'), (10, '6'), (11, 'one')]
+('2', 'one')
+21
+====
+flqhlpkzjvq3qvvgvjscr6v9eight
+[(11, '3'), (21, '6'), (23, '9'), (24, 'eight')]
+('3', 'eight')
+38
+====
+hrgeightwo8
+[(3, 'eight'), (7, 'two'), (10, '8')]
+('eight', '8')
+88
+====
+3fvpkbrhqchlbsxhlqfone3eightmhtxbrninerbkrsnxbjg
+[(0, '3'), (19, 'one'), (22, '3'), (23, 'eight'), (34, 'nine')]
+('3', 'nine')
+39
+====
+871eightnineq5f2
+[(0, '8'), (1, '7'), (2, '1'), (3, 'eight'), (8, 'nine'), (13, '5'), (15, '2')]
+('8', '2')
+82
+====
+6jnonergcjfvkhfive
+[(0, '6'), (3, 'one'), (14, 'five')]
+('6', 'five')
+65
+====
+one47fxgvgmoneoneoneg
+[(0, 'one'), (3, '4'), (4, '7'), (11, 'one'), (14, 'one'), (17, 'one')]
+('one', 'one')
+11
+====
+5xktmbkqftrlvztctxnqprpnine
+[(0, '5'), (23, 'nine')]
+('5', 'nine')
+59
+====
+eight4tfvsbtmhtwol
+[(0, 'eight'), (5, '4'), (14, 'two')]
+('eight', 'two')
+82
+====
+rbjdrmbcrs9chvcj7s
+[(10, '9'), (16, '7')]
+('9', '7')
+97
+====
+eight12bdzqtvnqeight27rpt
+[(0, 'eight'), (5, '1'), (6, '2'), (15, 'eight'), (20, '2'), (21, '7')]
+('eight', '7')
+87
+====
+fq713oneone6rgrnd
+[(2, '7'), (3, '1'), (4, '3'), (5, 'one'), (8, 'one'), (11, '6')]
+('7', '6')
+76
+====
+cdt96
+[(3, '9'), (4, '6')]
+('9', '6')
+96
+====
+dbfrd4rczmbgnmfrltdlpbseven7lqhfive
+[(5, '4'), (22, 'seven'), (27, '7'), (31, 'five')]
+('4', 'five')
+45
+====
+fourdxxkqjfpjxbcthzhbl67eightzks19
+[(0, 'four'), (22, '6'), (23, '7'), (24, 'eight'), (32, '1'), (33, '9')]
+('four', '9')
+49
+====
+2four5ntghsdcsdrjpbrtrt3bzgbtfnknine
+[(0, '2'), (1, 'four'), (5, '5'), (23, '3'), (32, 'nine')]
+('2', 'nine')
+29
+====
+tvmnjgcsixnine8zrc39five
+[(7, 'six'), (10, 'nine'), (14, '8'), (18, '3'), (19, '9'), (20, 'five')]
+('six', 'five')
+65
+====
+5kcbfkj61three9tsqpvzdd
+[(0, '5'), (7, '6'), (8, '1'), (9, 'three'), (14, '9')]
+('5', '9')
+59
+====
+qsmseventhreeone4twosix
+[(3, 'seven'), (8, 'three'), (13, 'one'), (16, '4'), (17, 'two'), (20, 'six')]
+('seven', 'six')
+76
+====
+twosix2
+[(0, 'two'), (3, 'six'), (6, '2')]
+('two', '2')
+22
+====
+jzsmxs9plpsixpqxffive
+[(6, '9'), (10, 'six'), (17, 'five')]
+('9', 'five')
+95
+====
+sixthreeseven4flbct
+[(0, 'six'), (3, 'three'), (8, 'seven'), (13, '4')]
+('six', '4')
+64
+====
+mpplmsrjvz9
+[(10, '9')]
+9
+9
+====
+8ttgt9ninesevensevengnprjnvxpjz
+[(0, '8'), (5, '9'), (6, 'nine'), (10, 'seven'), (15, 'seven')]
+('8', 'seven')
+87
+====
+8gmpgvbfjcdsnkcth9bbnqsqhqqzeight42
+[(0, '8'), (17, '9'), (28, 'eight'), (33, '4'), (34, '2')]
+('8', '2')
+82
+====
+nk5b
+[(2, '5')]
+5
+5
+====
+four98six83five
+[(0, 'four'), (4, '9'), (5, '8'), (6, 'six'), (9, '8'), (10, '3'), (11, 'five')]
+('four', 'five')
+45
+====
+415rqgdfsix
+[(0, '4'), (1, '1'), (2, '5'), (8, 'six')]
+('4', 'six')
+46
+====
+mqrkmbvtm668
+[(9, '6'), (10, '6'), (11, '8')]
+('6', '8')
+68
+====
+6453twoone
+[(0, '6'), (1, '4'), (2, '5'), (3, '3'), (4, 'two'), (7, 'one')]
+('6', 'one')
+61
+====
+9fiveeightseven4gsshznxbkb5
+[(0, '9'), (1, 'five'), (5, 'eight'), (10, 'seven'), (15, '4'), (26, '5')]
+('9', '5')
+95
+====
+seven3ninedgthree
+[(0, 'seven'), (5, '3'), (6, 'nine'), (12, 'three')]
+('seven', 'three')
+73
+====
+jckgvtvrs3six3trrzfrxfnm8
+[(9, '3'), (10, 'six'), (13, '3'), (24, '8')]
+('3', '8')
+38
+====
+98fivexxdqpmv74fbthtqqfourvttxnck
+[(0, '9'), (1, '8'), (2, 'five'), (13, '7'), (14, '4'), (22, 'four')]
+('9', 'four')
+94
+====
+fivenineonefour46tccfkrsrpqnxhtm
+[(0, 'five'), (4, 'nine'), (8, 'one'), (11, 'four'), (15, '4'), (16, '6')]
+('five', '6')
+56
+====
+twobdsqhnscrkbzt19
+[(0, 'two'), (16, '1'), (17, '9')]
+('two', '9')
+29
+====
+llmccgn8
+[(7, '8')]
+8
+8
+====
+6eightoneonen57
+[(0, '6'), (1, 'eight'), (6, 'one'), (9, 'one'), (13, '5'), (14, '7')]
+('6', '7')
+67
+====
+meightwo1cjqsm3sixlrr
+[(1, 'eight'), (5, 'two'), (8, '1'), (14, '3'), (15, 'six')]
+('eight', 'six')
+86
+====
+98842
+[(0, '9'), (1, '8'), (2, '8'), (3, '4'), (4, '2')]
+('9', '2')
+92
+====
+twofnsvbsxkxrzghhrz29
+[(0, 'two'), (19, '2'), (20, '9')]
+('two', '9')
+29
+====
+tzfjthreebkkljhninetwoone6zgpgsgxq
+[(4, 'three'), (15, 'nine'), (19, 'two'), (22, 'one'), (25, '6')]
+('three', '6')
+36
+====
+fournkcgf85seventwo
+[(0, 'four'), (9, '8'), (10, '5'), (11, 'seven'), (16, 'two')]
+('four', 'two')
+42
+====
+642
+[(0, '6'), (1, '4'), (2, '2')]
+('6', '2')
+62
+====
+four1oneninejbstfcdgjkjtppskglj1
+[(0, 'four'), (4, '1'), (5, 'one'), (8, 'nine'), (31, '1')]
+('four', '1')
+41
+====
+4four9eight2tnphxvfour
+[(0, '4'), (1, 'four'), (5, '9'), (6, 'eight'), (11, '2'), (18, 'four')]
+('4', 'four')
+44
+====
+sixjhcnxkksxthreeseven1four1
+[(0, 'six'), (12, 'three'), (17, 'seven'), (22, '1'), (23, 'four'), (27, '1')]
+('six', '1')
+61
+====
+rb34pqtnnfive2sevenone
+[(2, '3'), (3, '4'), (9, 'five'), (13, '2'), (14, 'seven'), (19, 'one')]
+('3', 'one')
+31
+====
+33sevennlnhrkkbshonefnrqq72
+[(0, '3'), (1, '3'), (2, 'seven'), (17, 'one'), (25, '7'), (26, '2')]
+('3', '2')
+32
+====
+3sevenfourlmqzfdjrq
+[(0, '3'), (1, 'seven'), (6, 'four')]
+('3', 'four')
+34
+====
+tmttpfb4mghtcpnine
+[(7, '4'), (14, 'nine')]
+('4', 'nine')
+49
+====
+nhlqlcxff8
+[(9, '8')]
+8
+8
+====
+fiveone5gxg
+[(0, 'five'), (4, 'one'), (7, '5')]
+('five', '5')
+55
+====
+fivecrjmsgljxb1mqmffour8mgtdxsjsix
+[(0, 'five'), (14, '1'), (19, 'four'), (23, '8'), (31, 'six')]
+('five', 'six')
+56
+====
+1jdkvzfmbq
+[(0, '1')]
+1
+1
+====
+ndzqgk6
+[(6, '6')]
+6
+6
+====
+threeg7twofour2twossldnmthree
+[(0, 'three'), (6, '7'), (7, 'two'), (10, 'four'), (14, '2'), (15, 'two'), (24, 'three')]
+('three', 'three')
+33
+====
+5rsltvdtworrglclfpctml3
+[(0, '5'), (7, 'two'), (22, '3')]
+('5', '3')
+53
+====
+nine6fourmcqbhbvlmzgnfqtbcs
+[(0, 'nine'), (4, '6'), (5, 'four')]
+('nine', 'four')
+94
+====
+5eight92
+[(0, '5'), (1, 'eight'), (6, '9'), (7, '2')]
+('5', '2')
+52
+====
+ninefivefour3kbnmrdmxjg2
+[(0, 'nine'), (4, 'five'), (8, 'four'), (12, '3'), (23, '2')]
+('nine', '2')
+92
+====
+73vprclhthzz8
+[(0, '7'), (1, '3'), (12, '8')]
+('7', '8')
+78
+====
+ninettjnnkrsix9kvxjknzkmsxtvdn
+[(0, 'nine'), (11, 'six'), (14, '9')]
+('nine', '9')
+99
+====
+bgzfv59fhsvcjvlgmhhzph58
+[(5, '5'), (6, '9'), (22, '5'), (23, '8')]
+('5', '8')
+58
+====
+threeonefivecgjstcmp57
+[(0, 'three'), (5, 'one'), (8, 'five'), (20, '5'), (21, '7')]
+('three', '7')
+37
+====
+9onefoursix
+[(0, '9'), (1, 'one'), (4, 'four'), (8, 'six')]
+('9', 'six')
+96
+====
+sjqjvd4three91
+[(6, '4'), (7, 'three'), (12, '9'), (13, '1')]
+('4', '1')
+41
+====
+9ccdjqfivefourfive6mrnkjqf
+[(0, '9'), (6, 'five'), (10, 'four'), (14, 'five'), (18, '6')]
+('9', '6')
+96
+====
+7lzdrzjheightthree6
+[(0, '7'), (8, 'eight'), (13, 'three'), (18, '6')]
+('7', '6')
+76
+====
+43
+[(0, '4'), (1, '3')]
+('4', '3')
+43
+====
+nineb8sixqqsxrpn
+[(0, 'nine'), (5, '8'), (6, 'six')]
+('nine', 'six')
+96
+====
+fgkj15eight6gggndbjxvthree
+[(4, '1'), (5, '5'), (6, 'eight'), (11, '6'), (21, 'three')]
+('1', 'three')
+13
+====
+one3sevenlfjqmbmssgbzs8pzjptxgvq
+[(0, 'one'), (3, '3'), (4, 'seven'), (22, '8')]
+('one', '8')
+18
+====
+77fiveqpjpfdqteighttpfh
+[(0, '7'), (1, '7'), (2, 'five'), (14, 'eight')]
+('7', 'eight')
+78
+====
+2333twonezrr
+[(0, '2'), (1, '3'), (2, '3'), (3, '3'), (4, 'two'), (6, 'one')]
+('2', 'one')
+21
+====
+8p4cxnjvbjlh9ninesix6
+[(0, '8'), (2, '4'), (12, '9'), (13, 'nine'), (17, 'six'), (20, '6')]
+('8', '6')
+86
+====
+ninefour95
+[(0, 'nine'), (4, 'four'), (8, '9'), (9, '5')]
+('nine', '5')
+95
+====
+67twosevencktwopjcmcxr
+[(0, '6'), (1, '7'), (2, 'two'), (5, 'seven'), (12, 'two')]
+('6', 'two')
+62
+====
+9four1threejbrdmtkzn
+[(0, '9'), (1, 'four'), (5, '1'), (6, 'three')]
+('9', 'three')
+93
+====
+ninenjhstmmmj3four
+[(0, 'nine'), (13, '3'), (14, 'four')]
+('nine', 'four')
+94
+====
+4lnqjqtwo3zxfznvp
+[(0, '4'), (6, 'two'), (9, '3')]
+('4', '3')
+43
+====
+sixfivesrxnttwochrkdrr7
+[(0, 'six'), (3, 'five'), (12, 'two'), (22, '7')]
+('six', '7')
+67
+====
+4three1
+[(0, '4'), (1, 'three'), (6, '1')]
+('4', '1')
+41
+====
+tfeightwo9two69five
+[(2, 'eight'), (6, 'two'), (9, '9'), (10, 'two'), (13, '6'), (14, '9'), (15, 'five')]
+('eight', 'five')
+85
+====
+oneseven3sixfournnpkhhx9
+[(0, 'one'), (3, 'seven'), (8, '3'), (9, 'six'), (12, 'four'), (23, '9')]
+('one', '9')
+19
+====
+mdl8kfpvthree
+[(3, '8'), (8, 'three')]
+('8', 'three')
+83
+====
+fxcxgmq5three3ninehdc8
+[(7, '5'), (8, 'three'), (13, '3'), (14, 'nine'), (21, '8')]
+('5', '8')
+58
+====
+one9eightfiveonernhbcxjninethree
+[(0, 'one'), (3, '9'), (4, 'eight'), (9, 'five'), (13, 'one'), (23, 'nine'), (27, 'three')]
+('one', 'three')
+13
+====
+9three3fcpgxksix
+[(0, '9'), (1, 'three'), (6, '3'), (13, 'six')]
+('9', 'six')
+96
+====
+nine346946one
+[(0, 'nine'), (4, '3'), (5, '4'), (6, '6'), (7, '9'), (8, '4'), (9, '6'), (10, 'one')]
+('nine', 'one')
+91
+====
+hzkpbmdzdmsfkrbxvs6pnmqsevenlnr
+[(18, '6'), (23, 'seven')]
+('6', 'seven')
+67
+====
+kzsgmsix5
+[(5, 'six'), (8, '5')]
+('six', '5')
+65
+====
+kdjdvvdl2
+[(8, '2')]
+2
+2
+====
+8lcpfkhdltwo
+[(0, '8'), (9, 'two')]
+('8', 'two')
+82
+====
+xjzfbgrmvxprqpflpbk9cnpxdkgmvvjz8vbrjhxvthfsjkk
+[(19, '9'), (32, '8')]
+('9', '8')
+98
+====
+onefive7
+[(0, 'one'), (3, 'five'), (7, '7')]
+('one', '7')
+17
+====
+tjqmxncdbmsjznine1zlr
+[(13, 'nine'), (17, '1')]
+('nine', '1')
+91
+====
+648bhzlqnlvrshdgzonefive
+[(0, '6'), (1, '4'), (2, '8'), (17, 'one'), (20, 'five')]
+('6', 'five')
+65
+====
+eight2sixtdzznchf1seventwo4
+[(0, 'eight'), (5, '2'), (6, 'six'), (17, '1'), (18, 'seven'), (23, 'two'), (26, '4')]
+('eight', '4')
+84
+====
+sevenzcmpbfbzdvjlztpx62
+[(0, 'seven'), (21, '6'), (22, '2')]
+('seven', '2')
+72
+====
+5961
+[(0, '5'), (1, '9'), (2, '6'), (3, '1')]
+('5', '1')
+51
+====
+97192fivethree
+[(0, '9'), (1, '7'), (2, '1'), (3, '9'), (4, '2'), (5, 'five'), (9, 'three')]
+('9', 'three')
+93
+====
+seven1mcxnqqzvpp5
+[(0, 'seven'), (5, '1'), (16, '5')]
+('seven', '5')
+75
+====
+8qn1eightseven
+[(0, '8'), (3, '1'), (4, 'eight'), (9, 'seven')]
+('8', 'seven')
+87
+====
+hcrrthreesevenlkvhfbj96twonine9
+[(4, 'three'), (9, 'seven'), (21, '9'), (22, '6'), (23, 'two'), (26, 'nine'), (30, '9')]
+('three', '9')
+39
+====
+two8four
+[(0, 'two'), (3, '8'), (4, 'four')]
+('two', 'four')
+24
+====
+hpkttfdpgb16
+[(10, '1'), (11, '6')]
+('1', '6')
+16
+====
+19oneseven2onerl
+[(0, '1'), (1, '9'), (2, 'one'), (5, 'seven'), (10, '2'), (11, 'one')]
+('1', 'one')
+11
+====
+347seventwo
+[(0, '3'), (1, '4'), (2, '7'), (3, 'seven'), (8, 'two')]
+('3', 'two')
+32
+====
+eight4threempfbxbssrrkscnc4eight
+[(0, 'eight'), (5, '4'), (6, 'three'), (26, '4'), (27, 'eight')]
+('eight', 'eight')
+88
+====
+555qrppcplpgtworxgbgdjdhltwothree
+[(0, '5'), (1, '5'), (2, '5'), (12, 'two'), (25, 'two'), (28, 'three')]
+('5', 'three')
+53
+====
+v9627
+[(1, '9'), (2, '6'), (3, '2'), (4, '7')]
+('9', '7')
+97
+====
+twoninenine72tkcbk
+[(0, 'two'), (3, 'nine'), (7, 'nine'), (11, '7'), (12, '2')]
+('two', '2')
+22
+====
+one5jhczrlqmhr
+[(0, 'one'), (3, '5')]
+('one', '5')
+15
+====
+qnhr4xlckprn9x3bzrdbfrdql9
+[(4, '4'), (12, '9'), (14, '3'), (25, '9')]
+('4', '9')
+49
+====
+lgtdv99kmgjjkzfive
+[(5, '9'), (6, '9'), (14, 'five')]
+('9', 'five')
+95
+====
+lrclbljqqpninerrjptvpfour2
+[(10, 'nine'), (21, 'four'), (25, '2')]
+('nine', '2')
+92
+====
+fiveltkcgdvgkeight7seven
+[(0, 'five'), (13, 'eight'), (18, '7'), (19, 'seven')]
+('five', 'seven')
+57
+====
+twongdsevenfivefive3foureightwonn
+[(0, 'two'), (6, 'seven'), (11, 'five'), (15, 'five'), (19, '3'), (20, 'four'), (24, 'eight'), (28, 'two')]
+('two', 'two')
+22
+====
+8svdmkflj
+[(0, '8')]
+8
+8
+====
+rlbf4sevennc4jxsskjgktwodsxgtlkthree
+[(4, '4'), (5, 'seven'), (12, '4'), (21, 'two'), (31, 'three')]
+('4', 'three')
+43
+====
+seven4nine4fivezjfsjghbcninefk
+[(0, 'seven'), (5, '4'), (6, 'nine'), (10, '4'), (11, 'five'), (24, 'nine')]
+('seven', 'nine')
+79
+====
+drghcjthreevstpdfth6sgqtx
+[(6, 'three'), (19, '6')]
+('three', '6')
+36
+====
+zkfthreefptvnvb9five
+[(3, 'three'), (15, '9'), (16, 'five')]
+('three', 'five')
+35
+====
+gjcqspnkztlqdnzl6
+[(16, '6')]
+6
+6
+====
+6nineqzgvhcnhjxbmtkcfm8one5five5
+[(0, '6'), (1, 'nine'), (22, '8'), (23, 'one'), (26, '5'), (27, 'five'), (31, '5')]
+('6', '5')
+65
+====
+threesevenseventwoqrcvpvvrdljfone3
+[(0, 'three'), (5, 'seven'), (10, 'seven'), (15, 'two'), (30, 'one'), (33, '3')]
+('three', '3')
+33
+====
+v44nlcdx8eight
+[(1, '4'), (2, '4'), (8, '8'), (9, 'eight')]
+('4', 'eight')
+48
+====
+eightseven3bmfzeightzccxqk6ftlsmfp
+[(0, 'eight'), (5, 'seven'), (10, '3'), (15, 'eight'), (26, '6')]
+('eight', '6')
+86
+====
+seventhreeseven3
+[(0, 'seven'), (5, 'three'), (10, 'seven'), (15, '3')]
+('seven', '3')
+73
+====
+7eightgvxcdxzplrthreelqgbhvpqffivefour5
+[(0, '7'), (1, 'eight'), (16, 'three'), (30, 'five'), (34, 'four'), (38, '5')]
+('7', '5')
+75
+====
+8coneckchx5pfive
+[(0, '8'), (2, 'one'), (10, '5'), (12, 'five')]
+('8', 'five')
+85
+====
+xhbbmsvjnonethree4
+[(9, 'one'), (12, 'three'), (17, '4')]
+('one', '4')
+14
+====
+lnktfknbqfive4seven
+[(9, 'five'), (13, '4'), (14, 'seven')]
+('five', 'seven')
+57
+====
+8prvncdq97hjjltzreight
+[(0, '8'), (8, '9'), (9, '7'), (17, 'eight')]
+('8', 'eight')
+88
+====
+2dfktgjgdrvfour
+[(0, '2'), (11, 'four')]
+('2', 'four')
+24
+====
+9onesixone
+[(0, '9'), (1, 'one'), (4, 'six'), (7, 'one')]
+('9', 'one')
+91
+====
+873lsmllvsvp
+[(0, '8'), (1, '7'), (2, '3')]
+('8', '3')
+83
+====
+61dcjgpjvqxj
+[(0, '6'), (1, '1')]
+('6', '1')
+61
+====
+xtwosixfiveseven2two
+[(1, 'two'), (4, 'six'), (7, 'five'), (11, 'seven'), (16, '2'), (17, 'two')]
+('two', 'two')
+22
+====
+p4
+[(1, '4')]
+4
+4
+====
+threescgqlmkt43one
+[(0, 'three'), (13, '4'), (14, '3'), (15, 'one')]
+('three', 'one')
+31
+====
+plffdq4pcqfoureight9one
+[(6, '4'), (10, 'four'), (14, 'eight'), (19, '9'), (20, 'one')]
+('4', 'one')
+41
+====
+357qzoneztwo6
+[(0, '3'), (1, '5'), (2, '7'), (5, 'one'), (9, 'two'), (12, '6')]
+('3', '6')
+36
+====
+6ztllqsixgtfgcr
+[(0, '6'), (6, 'six')]
+('6', 'six')
+66
+====
+4nineoneighthch
+[(0, '4'), (1, 'nine'), (5, 'one'), (7, 'eight')]
+('4', 'eight')
+48
+====
+fivesevenninesevenvpnfkjpeightjsvtqxgrx35
+[(0, 'five'), (4, 'seven'), (9, 'nine'), (13, 'seven'), (25, 'eight'), (39, '3'), (40, '5')]
+('five', '5')
+55
+====
+8nsbjtjrhnv36
+[(0, '8'), (11, '3'), (12, '6')]
+('8', '6')
+86
+====
+4eightseven
+[(0, '4'), (1, 'eight'), (6, 'seven')]
+('4', 'seven')
+47
+====
+5rksnms6fgcnrttgl27four9l
+[(0, '5'), (7, '6'), (17, '2'), (18, '7'), (19, 'four'), (23, '9')]
+('5', '9')
+59
+====
+3gknvvffflfgdg
+[(0, '3')]
+3
+3
+====
+8ts98n32one
+[(0, '8'), (3, '9'), (4, '8'), (6, '3'), (7, '2'), (8, 'one')]
+('8', 'one')
+81
+====
+4vmvthreefourmttwo
+[(0, '4'), (4, 'three'), (9, 'four'), (15, 'two')]
+('4', 'two')
+42
+====
+sevenskfmmmsjone95
+[(0, 'seven'), (13, 'one'), (16, '9'), (17, '5')]
+('seven', '5')
+75
+====
+seven4fmnxskg2516four
+[(0, 'seven'), (5, '4'), (13, '2'), (14, '5'), (15, '1'), (16, '6'), (17, 'four')]
+('seven', 'four')
+74
+====
+seveneightzjdnjthreethreefourpj3three
+[(0, 'seven'), (5, 'eight'), (15, 'three'), (20, 'three'), (25, 'four'), (31, '3'), (32, 'three')]
+('seven', 'three')
+73
+====
+two8one44three3
+[(0, 'two'), (3, '8'), (4, 'one'), (7, '4'), (8, '4'), (9, 'three'), (14, '3')]
+('two', '3')
+23
+====
+bffeightwo3twosxljzljbllrtttzsevenxfonetwofive
+[(3, 'eight'), (7, 'two'), (10, '3'), (11, 'two'), (29, 'seven'), (36, 'one'), (39, 'two'), (42, 'five')]
+('eight', 'five')
+85
+====
+5eight5sevenfour
+[(0, '5'), (1, 'eight'), (6, '5'), (7, 'seven'), (12, 'four')]
+('5', 'four')
+54
+====
+4fkxqm
+[(0, '4')]
+4
+4
+====
+7nine4seven
+[(0, '7'), (1, 'nine'), (5, '4'), (6, 'seven')]
+('7', 'seven')
+77
+====
+6eight3sevenfive6pxjlschvhm
+[(0, '6'), (1, 'eight'), (6, '3'), (7, 'seven'), (12, 'five'), (16, '6')]
+('6', '6')
+66
+====
+5nine7spbqddhrqcbzrvhkrt88
+[(0, '5'), (1, 'nine'), (5, '7'), (24, '8'), (25, '8')]
+('5', '8')
+58
+====
+cnpbkmbfour88
+[(7, 'four'), (11, '8'), (12, '8')]
+('four', '8')
+48
+====
+41twoeightlgcjfvms
+[(0, '4'), (1, '1'), (2, 'two'), (5, 'eight')]
+('4', 'eight')
+48
+====
+hktvctnine6mzccvthreefournine
+[(6, 'nine'), (10, '6'), (16, 'three'), (21, 'four'), (25, 'nine')]
+('nine', 'nine')
+99
+====
+1dr66mg5one
+[(0, '1'), (3, '6'), (4, '6'), (7, '5'), (8, 'one')]
+('1', 'one')
+11
+====
+five74
+[(0, 'five'), (4, '7'), (5, '4')]
+('five', '4')
+54
+====
+bsrrldft858six2oneightm
+[(8, '8'), (9, '5'), (10, '8'), (11, 'six'), (14, '2'), (15, 'one'), (17, 'eight')]
+('8', 'eight')
+88
+====
+mmsvhxsm68seven
+[(8, '6'), (9, '8'), (10, 'seven')]
+('6', 'seven')
+67
+====
+lnjcnn4fiveninerlsqkcn3
+[(6, '4'), (7, 'five'), (11, 'nine'), (22, '3')]
+('4', '3')
+43
+====
+fgzjrlmfjktwofournine5782three
+[(10, 'two'), (13, 'four'), (17, 'nine'), (21, '5'), (22, '7'), (23, '8'), (24, '2'), (25, 'three')]
+('two', 'three')
+23
+====
+1two8fiveninegndtnzndf41one
+[(0, '1'), (1, 'two'), (4, '8'), (5, 'five'), (9, 'nine'), (22, '4'), (23, '1'), (24, 'one')]
+('1', 'one')
+11
+====
+kstskp4one9ponejlcqdvgkkdfive
+[(6, '4'), (7, 'one'), (10, '9'), (12, 'one'), (25, 'five')]
+('4', 'five')
+45
+====
+four7two
+[(0, 'four'), (4, '7'), (5, 'two')]
+('four', 'two')
+42
+====
+mzcbhhxgkfourfour34
+[(9, 'four'), (13, 'four'), (17, '3'), (18, '4')]
+('four', '4')
+44
+====
+qvhnpbmvdbgxbnhcgthreesq7dvmdnhl9
+[(17, 'three'), (24, '7'), (32, '9')]
+('three', '9')
+39
+====
+1jhmkdmmmjg
+[(0, '1')]
+1
+1
+====
+6xzpvzvqbrnine8gg1771
+[(0, '6'), (10, 'nine'), (14, '8'), (17, '1'), (18, '7'), (19, '7'), (20, '1')]
+('6', '1')
+61
+====
+sixone9qvfft
+[(0, 'six'), (3, 'one'), (6, '9')]
+('six', '9')
+69
+====
+6eight152two6sdbl
+[(0, '6'), (1, 'eight'), (6, '1'), (7, '5'), (8, '2'), (9, 'two'), (12, '6')]
+('6', '6')
+66
+====
+sevenjlpmzv7
+[(0, 'seven'), (11, '7')]
+('seven', '7')
+77
+====
+jntrfc5
+[(6, '5')]
+5
+5
+====
+ztspfjhk4
+[(8, '4')]
+4
+4
+====
+9fournlslrmlr3
+[(0, '9'), (1, 'four'), (13, '3')]
+('9', '3')
+93
+====
+2kqsxx5
+[(0, '2'), (6, '5')]
+('2', '5')
+25
+====
+3nineshlmjsevenfiveonellrtr
+[(0, '3'), (1, 'nine'), (10, 'seven'), (15, 'five'), (19, 'one')]
+('3', 'one')
+31
+====
+7hcxxjkbsvknbmtwotninesrpsszktzjlntwo
+[(0, '7'), (14, 'two'), (18, 'nine'), (34, 'two')]
+('7', 'two')
+72
+====
+fv1six81
+[(2, '1'), (3, 'six'), (6, '8'), (7, '1')]
+('1', '1')
+11
+====
+onetwo4eightsixjkgmtvxptnxltqtptncfsix
+[(0, 'one'), (3, 'two'), (6, '4'), (7, 'eight'), (12, 'six'), (35, 'six')]
+('one', 'six')
+16
+====
+eightzvmmone3eight9dglsqq5
+[(0, 'eight'), (9, 'one'), (12, '3'), (13, 'eight'), (18, '9'), (25, '5')]
+('eight', '5')
+85
+====
+jvqs4sevendl
+[(4, '4'), (5, 'seven')]
+('4', 'seven')
+47
+====
+551six3oneseveneight
+[(0, '5'), (1, '5'), (2, '1'), (3, 'six'), (6, '3'), (7, 'one'), (10, 'seven'), (15, 'eight')]
+('5', 'eight')
+58
+====
+5jtcbrmtbjmrb4sevensmmrctntvz7five
+[(0, '5'), (13, '4'), (14, 'seven'), (29, '7'), (30, 'five')]
+('5', 'five')
+55
+====
+9lrnfive4
+[(0, '9'), (4, 'five'), (8, '4')]
+('9', '4')
+94
+====
+twoxfltgdg5six
+[(0, 'two'), (10, '5'), (11, 'six')]
+('two', 'six')
+26
+====
+one4threeeight3eight4stlp
+[(0, 'one'), (3, '4'), (4, 'three'), (9, 'eight'), (14, '3'), (15, 'eight'), (20, '4')]
+('one', '4')
+14
+====
+2rpxk95sixslsc895
+[(0, '2'), (5, '9'), (6, '5'), (7, 'six'), (14, '8'), (15, '9'), (16, '5')]
+('2', '5')
+25
+====
+seven15
+[(0, 'seven'), (5, '1'), (6, '5')]
+('seven', '5')
+75
+====
+1sixsix9sevenkhlnhqtzptwovzrmbr
+[(0, '1'), (1, 'six'), (4, 'six'), (7, '9'), (8, 'seven'), (22, 'two')]
+('1', 'two')
+12
+====
+two55six
+[(0, 'two'), (3, '5'), (4, '5'), (5, 'six')]
+('two', 'six')
+26
+====
+twofour3
+[(0, 'two'), (3, 'four'), (7, '3')]
+('two', '3')
+23
+====
+eight6fiveeightbmrr1sevenk3
+[(0, 'eight'), (5, '6'), (6, 'five'), (10, 'eight'), (19, '1'), (20, 'seven'), (26, '3')]
+('eight', '3')
+83
+====
+4flbntjtfivepzkjplzxn7
+[(0, '4'), (8, 'five'), (21, '7')]
+('4', '7')
+47
+====
+ljnpmnskjsixthreehpqdkccffg4sixfszddbz
+[(9, 'six'), (12, 'three'), (27, '4'), (28, 'six')]
+('six', 'six')
+66
+====
+9gfsqhmonelgvxpkmnhldmthree7
+[(0, '9'), (7, 'one'), (22, 'three'), (27, '7')]
+('9', '7')
+97
+====
+5vthvsrcbxbcrgqnine
+[(0, '5'), (15, 'nine')]
+('5', 'nine')
+59
+====
+six6nine2v
+[(0, 'six'), (3, '6'), (4, 'nine'), (8, '2')]
+('six', '2')
+62
+====
+htnvsfmz7dtvthree6sevenfourfourrmsdfhkd
+[(8, '7'), (12, 'three'), (17, '6'), (18, 'seven'), (23, 'four'), (27, 'four')]
+('7', 'four')
+74
+====
+pb24
+[(2, '2'), (3, '4')]
+('2', '4')
+24
+====
+sbmmdnfvmlfourfivenvcnb3jrctctmrhm
+[(10, 'four'), (14, 'five'), (23, '3')]
+('four', '3')
+43
+====
+2fourone52hkjvd4
+[(0, '2'), (1, 'four'), (5, 'one'), (8, '5'), (9, '2'), (15, '4')]
+('2', '4')
+24
+====
+1bhpbmxhtr4eightwolkd
+[(0, '1'), (10, '4'), (11, 'eight'), (15, 'two')]
+('1', 'two')
+12
+====
+5qrqbxtgppvvcms
+[(0, '5')]
+5
+5
+====
+mgcgxpmj4dl3zfckcskbqnsknlctwonxsddvhl
+[(8, '4'), (11, '3'), (27, 'two')]
+('4', 'two')
+42
+====
+6zfv66onetwosixtwoxdx
+[(0, '6'), (4, '6'), (5, '6'), (6, 'one'), (9, 'two'), (12, 'six'), (15, 'two')]
+('6', 'two')
+62
+====
+676jmzcdbcjnfrlrgqzfkmdxz
+[(0, '6'), (1, '7'), (2, '6')]
+('6', '6')
+66
+====
+oneqhgcqjmjq4
+[(0, 'one'), (12, '4')]
+('one', '4')
+14
+====
+three6qvlkksf98
+[(0, 'three'), (5, '6'), (13, '9'), (14, '8')]
+('three', '8')
+38
+====
+fivesix614s83
+[(0, 'five'), (4, 'six'), (7, '6'), (8, '1'), (9, '4'), (11, '8'), (12, '3')]
+('five', '3')
+53
+====
+threeone9kplvzq28threegcmtrzzlsix
+[(0, 'three'), (5, 'one'), (8, '9'), (15, '2'), (16, '8'), (17, 'three'), (30, 'six')]
+('three', 'six')
+36
+====
+5lxcjrvbthreednttcxfnfiveseven
+[(0, '5'), (8, 'three'), (21, 'five'), (25, 'seven')]
+('5', 'seven')
+57
+====
+threeeight5seven5jlhhfour2
+[(0, 'three'), (5, 'eight'), (10, '5'), (11, 'seven'), (16, '5'), (21, 'four'), (25, '2')]
+('three', '2')
+32
+====
+xcppxkxqffc6six
+[(11, '6'), (12, 'six')]
+('6', 'six')
+66
+====
+fouroneseven1xrdtbvdsix
+[(0, 'four'), (4, 'one'), (7, 'seven'), (12, '1'), (20, 'six')]
+('four', 'six')
+46
+====
+vfqzhvzclbpj2
+[(12, '2')]
+2
+2
+====
+5seven8xlhfivetwofivedvlbtvzvs
+[(0, '5'), (1, 'seven'), (6, '8'), (10, 'five'), (14, 'two'), (17, 'five')]
+('5', 'five')
+55
+====
+7bjlrvnncgsseven7six
+[(0, '7'), (11, 'seven'), (16, '7'), (17, 'six')]
+('7', 'six')
+76
+====
+3qsnhs
+[(0, '3')]
+3
+3
+====
+2fivefour5
+[(0, '2'), (1, 'five'), (5, 'four'), (9, '5')]
+('2', '5')
+25
+====
+gjgzjs1s
+[(6, '1')]
+1
+1
+====
+vxhlxvgj39
+[(8, '3'), (9, '9')]
+('3', '9')
+39
+====
+three1lvnrfrbzj6nine
+[(0, 'three'), (5, '1'), (15, '6'), (16, 'nine')]
+('three', 'nine')
+39
+====
+oneftpcjskxzhv21one2twomshxlh
+[(0, 'one'), (14, '2'), (15, '1'), (16, 'one'), (19, '2'), (20, 'two')]
+('one', 'two')
+12
+====
+nine36
+[(0, 'nine'), (4, '3'), (5, '6')]
+('nine', '6')
+96
+====
+ninetwojfqbjkbtrfseven4nkszvtjnffeightwoxdd
+[(0, 'nine'), (4, 'two'), (17, 'seven'), (22, '4'), (33, 'eight'), (37, 'two')]
+('nine', 'two')
+92
+====
+eight1eightfiveonerzr4
+[(0, 'eight'), (5, '1'), (6, 'eight'), (11, 'five'), (15, 'one'), (21, '4')]
+('eight', '4')
+84
+====
+sevengtwokzcxvvg4
+[(0, 'seven'), (6, 'two'), (16, '4')]
+('seven', '4')
+74
+====
+qxkmfdznfive98eightfourprmsixthree
+[(8, 'five'), (12, '9'), (13, '8'), (14, 'eight'), (19, 'four'), (26, 'six'), (29, 'three')]
+('five', 'three')
+53
+====
+1two743six
+[(0, '1'), (1, 'two'), (4, '7'), (5, '4'), (6, '3'), (7, 'six')]
+('1', 'six')
+16
+====
+274sixqqq62j
+[(0, '2'), (1, '7'), (2, '4'), (3, 'six'), (9, '6'), (10, '2')]
+('2', '2')
+22
+====
+sixfour4fourstxrskpxc1eight7
+[(0, 'six'), (3, 'four'), (7, '4'), (8, 'four'), (21, '1'), (22, 'eight'), (27, '7')]
+('six', '7')
+67
+====
+2fourrzngcnlm112twoone8
+[(0, '2'), (1, 'four'), (13, '1'), (14, '1'), (15, '2'), (16, 'two'), (19, 'one'), (22, '8')]
+('2', '8')
+28
+====
+nnqfmonerrpxeightfive9
+[(5, 'one'), (12, 'eight'), (17, 'five'), (21, '9')]
+('one', '9')
+19
+====
+klzrfbxjnznzkt24pjngplcdlftjz
+[(14, '2'), (15, '4')]
+('2', '4')
+24
+====
+66gbsllhhgxn38
+[(0, '6'), (1, '6'), (12, '3'), (13, '8')]
+('6', '8')
+68
+====
+threelzzrxspvq8four
+[(0, 'three'), (14, '8'), (15, 'four')]
+('three', 'four')
+34
+====
+qtvtpqspqflonetfrzvkthreeone8gsjqzgnv
+[(11, 'one'), (20, 'three'), (25, 'one'), (28, '8')]
+('one', '8')
+18
+====
+9vhlxrqtdmzrpfqh74zsgnmsdlqgcp2
+[(0, '9'), (16, '7'), (17, '4'), (30, '2')]
+('9', '2')
+92
+====
+qkkkhxbrk35eightjpnmb761one
+[(9, '3'), (10, '5'), (11, 'eight'), (21, '7'), (22, '6'), (23, '1'), (24, 'one')]
+('3', 'one')
+31
+====
+4vp4four49two
+[(0, '4'), (3, '4'), (4, 'four'), (8, '4'), (9, '9'), (10, 'two')]
+('4', 'two')
+42
+====
+five6nrmvcfzlt665
+[(0, 'five'), (4, '6'), (14, '6'), (15, '6'), (16, '5')]
+('five', '5')
+55
+====
+skkqlzl1mrkgncmqnine68xvhfcsc
+[(7, '1'), (16, 'nine'), (20, '6'), (21, '8')]
+('1', '8')
+18
+====
+two17kbjcdsstlxst6
+[(0, 'two'), (3, '1'), (4, '7'), (17, '6')]
+('two', '6')
+26
+====
+foureight3twonglgrv
+[(0, 'four'), (4, 'eight'), (9, '3'), (10, 'two')]
+('four', 'two')
+42
+====
+6nine5
+[(0, '6'), (1, 'nine'), (5, '5')]
+('6', '5')
+65
+====
+pgcmqzcfninepbgcrbzseven5zplhhbrjbpxj
+[(8, 'nine'), (19, 'seven'), (24, '5')]
+('nine', '5')
+95
+====
+sevensix6fourtwonpninebt
+[(0, 'seven'), (5, 'six'), (8, '6'), (9, 'four'), (13, 'two'), (18, 'nine')]
+('seven', 'nine')
+79
+====
+eight7951one
+[(0, 'eight'), (5, '7'), (6, '9'), (7, '5'), (8, '1'), (9, 'one')]
+('eight', 'one')
+81
+====
+glvndtgdfkzzcbsmt36sevenfour3eight5
+[(17, '3'), (18, '6'), (19, 'seven'), (24, 'four'), (28, '3'), (29, 'eight'), (34, '5')]
+('3', '5')
+35
+====
+dtvgrkkzvhflhcsknhsccmxzgfivetcpz4zrcl9one
+[(25, 'five'), (33, '4'), (38, '9'), (39, 'one')]
+('five', 'one')
+51
+====
+jpg3onenineqzjseven8phltdpjrsr8
+[(3, '3'), (4, 'one'), (7, 'nine'), (14, 'seven'), (19, '8'), (30, '8')]
+('3', '8')
+38
+====
+68one
+[(0, '6'), (1, '8'), (2, 'one')]
+('6', 'one')
+61
+====
+gctzfjksevenszfblxone2seven6pd
+[(7, 'seven'), (18, 'one'), (21, '2'), (22, 'seven'), (27, '6')]
+('seven', '6')
+76
+====
+93nine42
+[(0, '9'), (1, '3'), (2, 'nine'), (6, '4'), (7, '2')]
+('9', '2')
+92
+====
+two19four97crzhqndbqpmpvj
+[(0, 'two'), (3, '1'), (4, '9'), (5, 'four'), (9, '9'), (10, '7')]
+('two', '7')
+27
+====
+3six4mrntvlzntmqgcmms
+[(0, '3'), (1, 'six'), (4, '4')]
+('3', '4')
+34
+====
+1gmpdqpfkkz
+[(0, '1')]
+1
+1
+====
+xmsv3eightmdnqkdtzn814
+[(4, '3'), (5, 'eight'), (19, '8'), (20, '1'), (21, '4')]
+('3', '4')
+34
+====
+395zqfqrgzs
+[(0, '3'), (1, '9'), (2, '5')]
+('3', '5')
+35
+====
+9eight81cpnvrkkl
+[(0, '9'), (1, 'eight'), (6, '8'), (7, '1')]
+('9', '1')
+91
+====
+7rddzbqfm5fouronekxkhlgf1
+[(0, '7'), (9, '5'), (10, 'four'), (14, 'one'), (24, '1')]
+('7', '1')
+71
+====
+fkclxddmxrpqzhqeight697
+[(15, 'eight'), (20, '6'), (21, '9'), (22, '7')]
+('eight', '7')
+87
+====
+2mtvxtgq5six
+[(0, '2'), (8, '5'), (9, 'six')]
+('2', 'six')
+26
+====
+3one9qvnpnmhzj6
+[(0, '3'), (1, 'one'), (4, '9'), (14, '6')]
+('3', '6')
+36
+====
+rvvf3six9fourrq
+[(4, '3'), (5, 'six'), (8, '9'), (9, 'four')]
+('3', 'four')
+34
+====
+r2eight55gvgpfs
+[(1, '2'), (2, 'eight'), (7, '5'), (8, '5')]
+('2', '5')
+25
+====
+dtztwofivefive12
+[(3, 'two'), (6, 'five'), (10, 'five'), (14, '1'), (15, '2')]
+('two', '2')
+22
+====
+three6zfqhnjzvr2twosevenoneightqp
+[(0, 'three'), (5, '6'), (15, '2'), (16, 'two'), (19, 'seven'), (24, 'one'), (26, 'eight')]
+('three', 'eight')
+38
+====
+sgleightwo2974c24
+[(3, 'eight'), (7, 'two'), (10, '2'), (11, '9'), (12, '7'), (13, '4'), (15, '2'), (16, '4')]
+('eight', '4')
+84
+====
+pplpgxnvzfpv4xlfive11four
+[(12, '4'), (15, 'five'), (19, '1'), (20, '1'), (21, 'four')]
+('4', 'four')
+44
+====
+58one
+[(0, '5'), (1, '8'), (2, 'one')]
+('5', 'one')
+51
+====
+61four29
+[(0, '6'), (1, '1'), (2, 'four'), (6, '2'), (7, '9')]
+('6', '9')
+69
+====
+eightgxcgbrzd8five8
+[(0, 'eight'), (13, '8'), (14, 'five'), (18, '8')]
+('eight', '8')
+88
+====
+jxdzbxcc1one6pfivesixfiveg
+[(8, '1'), (9, 'one'), (12, '6'), (14, 'five'), (18, 'six'), (21, 'five')]
+('1', 'five')
+15
+====
+two542cvjxvmhhthreexkl
+[(0, 'two'), (3, '5'), (4, '4'), (5, '2'), (14, 'three')]
+('two', 'three')
+23
+====
+three8nhzz4
+[(0, 'three'), (5, '8'), (10, '4')]
+('three', '4')
+34
+====
+sevenseven1seven14pxtwothree
+[(0, 'seven'), (5, 'seven'), (10, '1'), (11, 'seven'), (16, '1'), (17, '4'), (20, 'two'), (23, 'three')]
+('seven', 'three')
+73
+====
+mpdcbdjkp8ninethree
+[(9, '8'), (10, 'nine'), (14, 'three')]
+('8', 'three')
+83
+====
+fourthreeg9pnine
+[(0, 'four'), (4, 'three'), (10, '9'), (12, 'nine')]
+('four', 'nine')
+49
+====
+onesixfourtckbkjdkqbfjkgpk54
+[(0, 'one'), (3, 'six'), (6, 'four'), (26, '5'), (27, '4')]
+('one', '4')
+14
+====
+qxh1twoclvzvsvgk2dvpkncltdt
+[(3, '1'), (4, 'two'), (16, '2')]
+('1', '2')
+12
+====
+fivefourhjckmndtdp98jzgqvrhbhxeighttdxkjltrdq
+[(0, 'five'), (4, 'four'), (18, '9'), (19, '8'), (30, 'eight')]
+('five', 'eight')
+58
+====
+296dvxdxhdb4qbnmkzxh
+[(0, '2'), (1, '9'), (2, '6'), (11, '4')]
+('2', '4')
+24
+====
+djsrgct28vjkvsttnlf4
+[(7, '2'), (8, '8'), (19, '4')]
+('2', '4')
+24
+====
+7rhdkfvqbxninegnkbgcqv1four42
+[(0, '7'), (10, 'nine'), (22, '1'), (23, 'four'), (27, '4'), (28, '2')]
+('7', '2')
+72
+====
+seveneightdcb7sevenpdvqlmkvfive
+[(0, 'seven'), (5, 'eight'), (13, '7'), (14, 'seven'), (27, 'five')]
+('seven', 'five')
+75
+====
+39lr83hhhrfivexbhr
+[(0, '3'), (1, '9'), (4, '8'), (5, '3'), (10, 'five')]
+('3', 'five')
+35
+====
+zx32sixeight
+[(2, '3'), (3, '2'), (4, 'six'), (7, 'eight')]
+('3', 'eight')
+38
+====
+7hsxxzjjdh4rc55threeseven
+[(0, '7'), (10, '4'), (13, '5'), (14, '5'), (15, 'three'), (20, 'seven')]
+('7', 'seven')
+77
+====
+5oneseven2sevenfourtwothree
+[(0, '5'), (1, 'one'), (4, 'seven'), (9, '2'), (10, 'seven'), (15, 'four'), (19, 'two'), (22, 'three')]
+('5', 'three')
+53
+====
+9oneqc3seventwofive5
+[(0, '9'), (1, 'one'), (6, '3'), (7, 'seven'), (12, 'two'), (15, 'five'), (19, '5')]
+('9', '5')
+95
+====
+five2hnfkvsxmhjfivefivesix
+[(0, 'five'), (4, '2'), (15, 'five'), (19, 'five'), (23, 'six')]
+('five', 'six')
+56
+====
+3sixnine59three6mncxxxhkgxzlxscdzplm
+[(0, '3'), (1, 'six'), (4, 'nine'), (8, '5'), (9, '9'), (10, 'three'), (15, '6')]
+('3', '6')
+36
+====
+eight9three62sixfour
+[(0, 'eight'), (5, '9'), (6, 'three'), (11, '6'), (12, '2'), (13, 'six'), (16, 'four')]
+('eight', 'four')
+84
+====
+26hfc4four1
+[(0, '2'), (1, '6'), (5, '4'), (6, 'four'), (10, '1')]
+('2', '1')
+21
+====
+jrnxgrvrctbg3nine
+[(12, '3'), (13, 'nine')]
+('3', 'nine')
+39
+====
+four73dqfiveeighttwosevenknq
+[(0, 'four'), (4, '7'), (5, '3'), (8, 'five'), (12, 'eight'), (17, 'two'), (20, 'seven')]
+('four', 'seven')
+47
+====
+94nine8fivevnvlnf
+[(0, '9'), (1, '4'), (2, 'nine'), (6, '8'), (7, 'five')]
+('9', 'five')
+95
+====
+twopg79nine6kkpfgmpdlqhfc5
+[(0, 'two'), (5, '7'), (6, '9'), (7, 'nine'), (11, '6'), (25, '5')]
+('two', '5')
+25
+====
+511twogghonefour
+[(0, '5'), (1, '1'), (2, '1'), (3, 'two'), (9, 'one'), (12, 'four')]
+('5', 'four')
+54
+====
+bvdneightsevenfcjnhccrlb7nine
+[(4, 'eight'), (9, 'seven'), (24, '7'), (25, 'nine')]
+('eight', 'nine')
+89
+====
+lpfoneightfrnsrpgkzsixv8
+[(3, 'one'), (5, 'eight'), (19, 'six'), (23, '8')]
+('one', '8')
+18
+====
+1sevenseven981
+[(0, '1'), (1, 'seven'), (6, 'seven'), (11, '9'), (12, '8'), (13, '1')]
+('1', '1')
+11
+====
+53kvftth53fourc
+[(0, '5'), (1, '3'), (8, '5'), (9, '3'), (10, 'four')]
+('5', 'four')
+54
+====
+zcmkkshveighteight1
+[(8, 'eight'), (13, 'eight'), (18, '1')]
+('eight', '1')
+81
+====
+9sixcrfzhfxzzrrdtkscp
+[(0, '9'), (1, 'six')]
+('9', 'six')
+96
+====
+8fhslkqzsc5jlpthreeninemjftx
+[(0, '8'), (10, '5'), (14, 'three'), (19, 'nine')]
+('8', 'nine')
+89
+====
+rsfourfkglt1hfvhgeightfourvbmsnine
+[(2, 'four'), (11, '1'), (17, 'eight'), (22, 'four'), (30, 'nine')]
+('four', 'nine')
+49
+====
+sixninefive5
+[(0, 'six'), (3, 'nine'), (7, 'five'), (11, '5')]
+('six', '5')
+65
+====
+2jqdfddkzzqxnkv8two
+[(0, '2'), (15, '8'), (16, 'two')]
+('2', 'two')
+22
+====
+sevensevenmxhpqvmngfivecnhvg18
+[(0, 'seven'), (5, 'seven'), (19, 'five'), (28, '1'), (29, '8')]
+('seven', '8')
+78
+====
+threesxrninenine31sixnmnssk
+[(0, 'three'), (8, 'nine'), (12, 'nine'), (16, '3'), (17, '1'), (18, 'six')]
+('three', 'six')
+36
+====
+kzvvsvbjrfoursix6four
+[(9, 'four'), (13, 'six'), (16, '6'), (17, 'four')]
+('four', 'four')
+44
+====
+ckvmxptpxrvpsfvt9nine
+[(16, '9'), (17, 'nine')]
+('9', 'nine')
+99
+====
+66ninezgxttq1nineninexggjrtzgg7
+[(0, '6'), (1, '6'), (2, 'nine'), (12, '1'), (13, 'nine'), (17, 'nine'), (30, '7')]
+('6', '7')
+67
+====
+two2eighthsrnine5pmptccfkfcpcmkn
+[(0, 'two'), (3, '2'), (4, 'eight'), (12, 'nine'), (16, '5')]
+('two', '5')
+25
+====
+seventqsqhbftscfonekdhrctnlcfdgzhvshsjgsbq7
+[(0, 'seven'), (16, 'one'), (42, '7')]
+('seven', '7')
+77
+====
+nine1mdpxvlxkdx
+[(0, 'nine'), (4, '1')]
+('nine', '1')
+91
+====
+pm4eighttwo
+[(2, '4'), (3, 'eight'), (8, 'two')]
+('4', 'two')
+42
+====
+81ggljdxsthreeninefive
+[(0, '8'), (1, '1'), (9, 'three'), (14, 'nine'), (18, 'five')]
+('8', 'five')
+85
+====
+twofivenine39three
+[(0, 'two'), (3, 'five'), (7, 'nine'), (11, '3'), (12, '9'), (13, 'three')]
+('two', 'three')
+23
+====
+six152sixp
+[(0, 'six'), (3, '1'), (4, '5'), (5, '2'), (6, 'six')]
+('six', 'six')
+66
+====
+threemztwotwo5fiveseven
+[(0, 'three'), (7, 'two'), (10, 'two'), (13, '5'), (14, 'five'), (18, 'seven')]
+('three', 'seven')
+37
+====
+31twoninefsxmpsjx6eight
+[(0, '3'), (1, '1'), (2, 'two'), (5, 'nine'), (17, '6'), (18, 'eight')]
+('3', 'eight')
+38
+====
+seven2deightone5threethree
+[(0, 'seven'), (5, '2'), (7, 'eight'), (12, 'one'), (15, '5'), (16, 'three'), (21, 'three')]
+('seven', 'three')
+73
+====
+hxmthvjphjdgctfpt4dfhxseven
+[(17, '4'), (22, 'seven')]
+('4', 'seven')
+47
+====
+4twoeightzx8
+[(0, '4'), (1, 'two'), (4, 'eight'), (11, '8')]
+('4', '8')
+48
+====
+9dzbjqnnmbseven7
+[(0, '9'), (10, 'seven'), (15, '7')]
+('9', '7')
+97
+====
+crdtprqs455onedmzvkzmmm
+[(8, '4'), (9, '5'), (10, '5'), (11, 'one')]
+('4', 'one')
+41
+====
+jqcxsxblgml1
+[(11, '1')]
+1
+1
+====
+9sbqzndbsx3twoseven7
+[(0, '9'), (10, '3'), (11, 'two'), (14, 'seven'), (19, '7')]
+('9', '7')
+97
+====
+eight8threezvvqbrsix34
+[(0, 'eight'), (5, '8'), (6, 'three'), (17, 'six'), (20, '3'), (21, '4')]
+('eight', '4')
+84
+====
+ztzlrsg4qghxkvspvcsix2jndhxzfrm
+[(7, '4'), (18, 'six'), (21, '2')]
+('4', '2')
+42
+====
+6twovjkjgptwo43lg
+[(0, '6'), (1, 'two'), (10, 'two'), (13, '4'), (14, '3')]
+('6', '3')
+63
+====
+1psnbrkbhb8seven
+[(0, '1'), (10, '8'), (11, 'seven')]
+('1', 'seven')
+17
+====
+xfxqjrggpmtf4fivenine79
+[(12, '4'), (13, 'five'), (17, 'nine'), (21, '7'), (22, '9')]
+('4', '9')
+49
+====
+6pdv1xpsgr
+[(0, '6'), (4, '1')]
+('6', '1')
+61
+====
+zb4rqrqxsevenvklzmslqls
+[(2, '4'), (8, 'seven')]
+('4', 'seven')
+47
+====
+fourlstone7
+[(0, 'four'), (7, 'one'), (10, '7')]
+('four', '7')
+47
+====
+53joneeight8ninef
+[(0, '5'), (1, '3'), (3, 'one'), (6, 'eight'), (11, '8'), (12, 'nine')]
+('5', 'nine')
+59
+====
+1315
+[(0, '1'), (1, '3'), (2, '1'), (3, '5')]
+('1', '5')
+15
+====
+1qj4
+[(0, '1'), (3, '4')]
+('1', '4')
+14
+====
+djeightwocxrnf5fourone4eightbqj
+[(2, 'eight'), (6, 'two'), (14, '5'), (15, 'four'), (19, 'one'), (22, '4'), (23, 'eight')]
+('eight', 'eight')
+88
+====
+jrgxvsmnzg5
+[(10, '5')]
+5
+5
+====
+twonsjbzvtqhgfivejdhxstbzrbtpndnjlvb7hhxfmrxtfxrcmjs
+[(0, 'two'), (13, 'five'), (36, '7')]
+('two', '7')
+27
+====
+67xbctwo
+[(0, '6'), (1, '7'), (5, 'two')]
+('6', 'two')
+62
+====
+7nbsrhcvrqj
+[(0, '7')]
+7
+7
+====
+fqnl9foursixtdgbcncr85three9
+[(4, '9'), (5, 'four'), (9, 'six'), (20, '8'), (21, '5'), (22, 'three'), (27, '9')]
+('9', '9')
+99
+====
+gmg4mr3rvdt
+[(3, '4'), (6, '3')]
+('4', '3')
+43
+====
+19qhmhvpzfour
+[(0, '1'), (1, '9'), (9, 'four')]
+('1', 'four')
+14
+====
+pkptr6lssnqxncztpbt8
+[(5, '6'), (19, '8')]
+('6', '8')
+68
+====
+sjqtxbxp5twoseven1onerrsqghcfpncgkfour
+[(8, '5'), (9, 'two'), (12, 'seven'), (17, '1'), (18, 'one'), (34, 'four')]
+('5', 'four')
+54
+====
+7four8spgzfoureightthreedqp
+[(0, '7'), (1, 'four'), (5, '8'), (10, 'four'), (14, 'eight'), (19, 'three')]
+('7', 'three')
+73
+====
+two9bxlqs
+[(0, 'two'), (3, '9')]
+('two', '9')
+29
+====
+deightwoninethree8
+[(1, 'eight'), (5, 'two'), (8, 'nine'), (12, 'three'), (17, '8')]
+('eight', '8')
+88
+====
+3plpprmmhvvsnvdzjzr9sqgbddpghthreejjmldhdqqm
+[(0, '3'), (19, '9'), (29, 'three')]
+('3', 'three')
+33
+====
+sevenfiveseven4bkvxkzqbtxjvdsltfkn
+[(0, 'seven'), (5, 'five'), (9, 'seven'), (14, '4')]
+('seven', '4')
+74
+====
+sevenssfkdmvmntpxjpqlj8px
+[(0, 'seven'), (22, '8')]
+('seven', '8')
+78
+====
+4hk9
+[(0, '4'), (3, '9')]
+('4', '9')
+49
+====
+fivenxcmhf78pmdd6mmqfvdxqbh7
+[(0, 'five'), (10, '7'), (11, '8'), (16, '6'), (27, '7')]
+('five', '7')
+57
+====
+five9hvfive7
+[(0, 'five'), (4, '9'), (7, 'five'), (11, '7')]
+('five', '7')
+57
+====
+eightfourrpflnfourtwo61
+[(0, 'eight'), (5, 'four'), (14, 'four'), (18, 'two'), (21, '6'), (22, '1')]
+('eight', '1')
+81
+====
+threenine2
+[(0, 'three'), (5, 'nine'), (9, '2')]
+('three', '2')
+32
+====
+ncdpjqcnine1twoonehglvzpzf
+[(7, 'nine'), (11, '1'), (12, 'two'), (15, 'one')]
+('nine', 'one')
+91
+====
+jmtpbhbshrvmhvqt38brsqpxn4one6
+[(16, '3'), (17, '8'), (25, '4'), (26, 'one'), (29, '6')]
+('3', '6')
+36
+====
+onesixvmmhsevenfoureight2six
+[(0, 'one'), (3, 'six'), (10, 'seven'), (15, 'four'), (19, 'eight'), (24, '2'), (25, 'six')]
+('one', 'six')
+16
+====
+ttwosix5nineb3eightthree
+[(1, 'two'), (4, 'six'), (7, '5'), (8, 'nine'), (13, '3'), (14, 'eight'), (19, 'three')]
+('two', 'three')
+23
+====
+cmkdmhkdf3zdhjfmb
+[(9, '3')]
+3
+3
+====
+three5fiveqrrxrdtsixtwogntmvxsggqfive
+[(0, 'three'), (5, '5'), (6, 'five'), (17, 'six'), (20, 'two'), (33, 'five')]
+('three', 'five')
+35
+====
+oneeight5eightfive38twonegv
+[(0, 'one'), (3, 'eight'), (8, '5'), (9, 'eight'), (14, 'five'), (18, '3'), (19, '8'), (20, 'two'), (22, 'one')]
+('one', 'one')
+11
+====
+cqlfhlch924mpmqfvtwo
+[(8, '9'), (9, '2'), (10, '4'), (17, 'two')]
+('9', 'two')
+92
+====
+jrnzg5four3fivetwokxphktf
+[(5, '5'), (6, 'four'), (10, '3'), (11, 'five'), (15, 'two')]
+('5', 'two')
+52
+====
+seveneightmzmzftx9gsmxjkj1stjbvxlvmlcdgnine
+[(0, 'seven'), (5, 'eight'), (17, '9'), (25, '1'), (39, 'nine')]
+('seven', 'nine')
+79
+====
+twonineeightninethree6blhm
+[(0, 'two'), (3, 'nine'), (7, 'eight'), (12, 'nine'), (16, 'three'), (21, '6')]
+('two', '6')
+26
+====
+3kskponetfgjgzphqtr
+[(0, '3'), (5, 'one')]
+('3', 'one')
+31
+====
+ntwo2
+[(1, 'two'), (4, '2')]
+('two', '2')
+22
+====
+5six1vksjzrlgjnxtwovbkrdlhjsmzdxcf
+[(0, '5'), (1, 'six'), (4, '1'), (16, 'two')]
+('5', 'two')
+52
+====
+twosixkfmcfndlj453two
+[(0, 'two'), (3, 'six'), (15, '4'), (16, '5'), (17, '3'), (18, 'two')]
+('two', 'two')
+22
+====
+six5twotzbzqtwo
+[(0, 'six'), (3, '5'), (4, 'two'), (12, 'two')]
+('six', 'two')
+62
+====
+fivenpcqfour5twonej
+[(0, 'five'), (8, 'four'), (12, '5'), (13, 'two'), (15, 'one')]
+('five', 'one')
+51
+====
+nineninefouroneztvqspscnk4twoklbht
+[(0, 'nine'), (4, 'nine'), (8, 'four'), (12, 'one'), (25, '4'), (26, 'two')]
+('nine', 'two')
+92
+====
+bqcbm19hckcgtcfkb44eighttwo
+[(5, '1'), (6, '9'), (17, '4'), (18, '4'), (19, 'eight'), (24, 'two')]
+('1', 'two')
+12
+====
+52jcrbqbkhjx5nine8
+[(0, '5'), (1, '2'), (12, '5'), (13, 'nine'), (17, '8')]
+('5', '8')
+58
+====
+5threethree
+[(0, '5'), (1, 'three'), (6, 'three')]
+('5', 'three')
+53
+====
+3twotrnnlstrndthree9
+[(0, '3'), (1, 'two'), (14, 'three'), (19, '9')]
+('3', '9')
+39
+====
+15zsnrfshn7twoeightsmvsfztx
+[(0, '1'), (1, '5'), (10, '7'), (11, 'two'), (14, 'eight')]
+('1', 'eight')
+18
+====
+789ckpxflvkr
+[(0, '7'), (1, '8'), (2, '9')]
+('7', '9')
+79
+====
+skxlnpxxdgbhqnineninejsltrx8three
+[(13, 'nine'), (17, 'nine'), (27, '8'), (28, 'three')]
+('nine', 'three')
+93
+====
+1sixone724
+[(0, '1'), (1, 'six'), (4, 'one'), (7, '7'), (8, '2'), (9, '4')]
+('1', '4')
+14
+====
+2seven4
+[(0, '2'), (1, 'seven'), (6, '4')]
+('2', '4')
+24
+====
+7knspxrzszdbgc3seven
+[(0, '7'), (14, '3'), (15, 'seven')]
+('7', 'seven')
+77
+====
+vsqmpf5sixsix9eightdtgmpxrksb
+[(6, '5'), (7, 'six'), (10, 'six'), (13, '9'), (14, 'eight')]
+('5', 'eight')
+58
+====
+three6btwo11fived
+[(0, 'three'), (5, '6'), (7, 'two'), (10, '1'), (11, '1'), (12, 'five')]
+('three', 'five')
+35
+====
+bckqdndnine7bpzvkxkdqtwoseventxpzqg2
+[(7, 'nine'), (11, '7'), (21, 'two'), (24, 'seven'), (35, '2')]
+('nine', '2')
+92
+====
+one6ntmlmfkfmjfourmgddpzfr5scjhhmgsix
+[(0, 'one'), (3, '6'), (14, 'four'), (26, '5'), (34, 'six')]
+('one', 'six')
+16
+====
+four12mlhdscsxfiveonesevenlone
+[(0, 'four'), (4, '1'), (5, '2'), (14, 'five'), (18, 'one'), (21, 'seven'), (27, 'one')]
+('four', 'one')
+41
+====
+9rdlctlkc
+[(0, '9')]
+9
+9
+====
+11vjvjsllfivenv
+[(0, '1'), (1, '1'), (9, 'five')]
+('1', 'five')
+15
+====
+2four6fourfive
+[(0, '2'), (1, 'four'), (5, '6'), (6, 'four'), (10, 'five')]
+('2', 'five')
+25
+====
+5czmqmdkkthree3
+[(0, '5'), (9, 'three'), (14, '3')]
+('5', '3')
+53
+====
+sevenfive9
+[(0, 'seven'), (5, 'five'), (9, '9')]
+('seven', '9')
+79
+====
+sevenfivemqjhqh9mvdkgtr
+[(0, 'seven'), (5, 'five'), (15, '9')]
+('seven', '9')
+79
+====
+glvpdbbhxs9
+[(10, '9')]
+9
+9
+====
+four2three
+[(0, 'four'), (4, '2'), (5, 'three')]
+('four', 'three')
+43
+====
+six6gtdbttnhvkvh
+[(0, 'six'), (3, '6')]
+('six', '6')
+66
+====
+5fcsbnpsixeightonetwo3
+[(0, '5'), (7, 'six'), (10, 'eight'), (15, 'one'), (18, 'two'), (21, '3')]
+('5', '3')
+53
+====
+5psvznthreethreefive5qrkftfkqsix
+[(0, '5'), (6, 'three'), (11, 'three'), (16, 'five'), (20, '5'), (29, 'six')]
+('5', 'six')
+56
+====
+36lmm
+[(0, '3'), (1, '6')]
+('3', '6')
+36
+====
+seven33onefournlr2
+[(0, 'seven'), (5, '3'), (6, '3'), (7, 'one'), (10, 'four'), (17, '2')]
+('seven', '2')
+72
+====
+13seven
+[(0, '1'), (1, '3'), (2, 'seven')]
+('1', 'seven')
+17
+====
+onejdxgxjpcsix1sevenpzbzthree
+[(0, 'one'), (11, 'six'), (14, '1'), (15, 'seven'), (24, 'three')]
+('one', 'three')
+13
+====
+sevenqcjsxz6twokkpzllzqninetwo
+[(0, 'seven'), (11, '6'), (12, 'two'), (23, 'nine'), (27, 'two')]
+('seven', 'two')
+72
+====
+1367mtsldgrdeightp
+[(0, '1'), (1, '3'), (2, '6'), (3, '7'), (12, 'eight')]
+('1', 'eight')
+18
+====
+five111hbp9tlqp
+[(0, 'five'), (4, '1'), (5, '1'), (6, '1'), (10, '9')]
+('five', '9')
+59
+====
+threebbnine7onesix2twoneg
+[(0, 'three'), (7, 'nine'), (11, '7'), (12, 'one'), (15, 'six'), (18, '2'), (19, 'two'), (21, 'one')]
+('three', 'one')
+31
+====
+mxmpnxmpqponeeightktxvgkcdr7
+[(10, 'one'), (13, 'eight'), (27, '7')]
+('one', '7')
+17
+====
+411fourdhrdvrz
+[(0, '4'), (1, '1'), (2, '1'), (3, 'four')]
+('4', 'four')
+44
+====
+zxkmcr5eightkzqsixsix7
+[(6, '5'), (7, 'eight'), (15, 'six'), (18, 'six'), (21, '7')]
+('5', '7')
+57
+====
+six972zleighttwonvgvth
+[(0, 'six'), (3, '9'), (4, '7'), (5, '2'), (8, 'eight'), (13, 'two')]
+('six', 'two')
+62
+====
+vnmmbzfpttwofnjd76
+[(9, 'two'), (16, '7'), (17, '6')]
+('two', '6')
+26
+====
+twopnthreeqzlvkptmph9vnkbxghnone66
+[(0, 'two'), (5, 'three'), (20, '9'), (29, 'one'), (32, '6'), (33, '6')]
+('two', '6')
+26
+====
+nine1fiveninethree4
+[(0, 'nine'), (4, '1'), (5, 'five'), (9, 'nine'), (13, 'three'), (18, '4')]
+('nine', '4')
+94
+====
+mdrdpbsfcjsixpnxfour2four2
+[(10, 'six'), (16, 'four'), (20, '2'), (21, 'four'), (25, '2')]
+('six', '2')
+62
+====
+sgjrdtmzcj2mbnlbtqsdboneeight
+[(10, '2'), (21, 'one'), (24, 'eight')]
+('2', 'eight')
+28
+====
+9jbmhchfrnfqvxcjtwokrbjvzmcxrj
+[(0, '9'), (16, 'two')]
+('9', 'two')
+92
+====
+4jhjksqvnqsevennfrtslcgjbrhfour
+[(0, '4'), (10, 'seven'), (27, 'four')]
+('4', 'four')
+44
+====
+6eightlzrrxfbcjeight5six1kzhtpbz
+[(0, '6'), (1, 'eight'), (15, 'eight'), (20, '5'), (21, 'six'), (24, '1')]
+('6', '1')
+61
+====
+jqsmqbzpntxdfvdthreezrqzdhthreefmvslxk6
+[(15, 'three'), (26, 'three'), (38, '6')]
+('three', '6')
+36
+====
+eight82two82zqghmbd
+[(0, 'eight'), (5, '8'), (6, '2'), (7, 'two'), (10, '8'), (11, '2')]
+('eight', '2')
+82
+====
+qtwone4d
+[(1, 'two'), (3, 'one'), (6, '4')]
+('two', '4')
+24
+====
+6three16
+[(0, '6'), (1, 'three'), (6, '1'), (7, '6')]
+('6', '6')
+66
+====
+9eightdmtkznh6
+[(0, '9'), (1, 'eight'), (13, '6')]
+('9', '6')
+96
+====
+znc1185
+[(3, '1'), (4, '1'), (5, '8'), (6, '5')]
+('1', '5')
+15
+====
+eighteight665bxbngx5dvht2
+[(0, 'eight'), (5, 'eight'), (10, '6'), (11, '6'), (12, '5'), (19, '5'), (24, '2')]
+('eight', '2')
+82
+====
+9seven83three
+[(0, '9'), (1, 'seven'), (6, '8'), (7, '3'), (8, 'three')]
+('9', 'three')
+93
+====
+mqdnhqfdgzfshjttvfour3hq92qtpdblnvdsxcskz
+[(17, 'four'), (21, '3'), (24, '9'), (25, '2')]
+('four', '2')
+42
+====
+twofourfivedfffknb6ljxjlsq48
+[(0, 'two'), (3, 'four'), (7, 'five'), (18, '6'), (26, '4'), (27, '8')]
+('two', '8')
+28
+====
+6pbdfrqpfour
+[(0, '6'), (8, 'four')]
+('6', 'four')
+64
+====
+vmtkqpjftc9twonej
+[(10, '9'), (11, 'two'), (13, 'one')]
+('9', 'one')
+91
+====
+rhcstmvxdnjgldpmlmsnineglmkntfiveeight3lgnlqmjkzl
+[(19, 'nine'), (29, 'five'), (33, 'eight'), (38, '3')]
+('nine', '3')
+93
+====
+rxzbjxjhkvhtxps2twohlcdgkrbdbmxvpf4five
+[(15, '2'), (16, 'two'), (34, '4'), (35, 'five')]
+('2', 'five')
+25
+====
+1three9two
+[(0, '1'), (1, 'three'), (6, '9'), (7, 'two')]
+('1', 'two')
+12
+====
+bp234jszvspdq
+[(2, '2'), (3, '3'), (4, '4')]
+('2', '4')
+24
+====
+rcmhnmb3lpxneightfivetn7
+[(7, '3'), (12, 'eight'), (17, 'five'), (23, '7')]
+('3', '7')
+37
+====
+srdh461fourcrhhkbxftghxqrptn
+[(4, '4'), (5, '6'), (6, '1'), (7, 'four')]
+('4', 'four')
+44
+====
+rlhlrm894
+[(6, '8'), (7, '9'), (8, '4')]
+('8', '4')
+84
+====
+jtmmljgmmppknktqrbjtwod9
+[(19, 'two'), (23, '9')]
+('two', '9')
+29
+====
+75kvnbm
+[(0, '7'), (1, '5')]
+('7', '5')
+75
+====
+psbcdponesix218
+[(6, 'one'), (9, 'six'), (12, '2'), (13, '1'), (14, '8')]
+('one', '8')
+18
+====
+ndx5zthreetwokjjvzkjk
+[(3, '5'), (5, 'three'), (10, 'two')]
+('5', 'two')
+52
+====
+onerhnmsxmseven7two2snn34
+[(0, 'one'), (10, 'seven'), (15, '7'), (16, 'two'), (19, '2'), (23, '3'), (24, '4')]
+('one', '4')
+14
+====
+nvmfj6hqdspmndlzqhrrznrpcgn
+[(5, '6')]
+6
+6
+====
+lqqgdmn5fivesfbqhveight1
+[(7, '5'), (8, 'five'), (18, 'eight'), (23, '1')]
+('5', '1')
+51
+====
+one5pjpskd25four3
+[(0, 'one'), (3, '5'), (10, '2'), (11, '5'), (12, 'four'), (16, '3')]
+('one', '3')
+13
+====
+91dxxjkrthreethreefourfiverrdhqtwo
+[(0, '9'), (1, '1'), (8, 'three'), (13, 'three'), (18, 'four'), (22, 'five'), (31, 'two')]
+('9', 'two')
+92
+====
+3sevenhbrznfcqmfivepqnmzxvlldhfdrvkqfmxzx8
+[(0, '3'), (1, 'seven'), (15, 'five'), (41, '8')]
+('3', '8')
+38
+====
+lrfflx9pvrfctxkxk432
+[(6, '9'), (17, '4'), (18, '3'), (19, '2')]
+('9', '2')
+92
+====
+ninerhjlqfzg3fourbvfkbmxbntz1
+[(0, 'nine'), (12, '3'), (13, 'four'), (28, '1')]
+('nine', '1')
+91
+====
+6dkgtthreebjfgjqnv6lveight
+[(0, '6'), (5, 'three'), (18, '6'), (21, 'eight')]
+('6', 'eight')
+68
+====
+seven527rgztslznxdkgrgf6one
+[(0, 'seven'), (5, '5'), (6, '2'), (7, '7'), (23, '6'), (24, 'one')]
+('seven', 'one')
+71
+====
+npchxbnb5zpzrllhx777
+[(8, '5'), (17, '7'), (18, '7'), (19, '7')]
+('5', '7')
+57
+====
+rfour4qkvcxsbjnveightwogm
+[(1, 'four'), (5, '4'), (16, 'eight'), (20, 'two')]
+('four', 'two')
+42
+====
+foursixsevenppnrdgpnrkbr5
+[(0, 'four'), (4, 'six'), (7, 'seven'), (24, '5')]
+('four', '5')
+45
+====
+3three4lm
+[(0, '3'), (1, 'three'), (6, '4')]
+('3', '4')
+34
+====
+1dmxvfour7
+[(0, '1'), (5, 'four'), (9, '7')]
+('1', '7')
+17
+====
+fiveh1eight
+[(0, 'five'), (5, '1'), (6, 'eight')]
+('five', 'eight')
+58
+====
+643
+[(0, '6'), (1, '4'), (2, '3')]
+('6', '3')
+63
+====
+fivelsffmhsldlfkqkb2threek6three
+[(0, 'five'), (19, '2'), (20, 'three'), (26, '6'), (27, 'three')]
+('five', 'three')
+53
+====
+23dpbpjcsqslnine4799
+[(0, '2'), (1, '3'), (12, 'nine'), (16, '4'), (17, '7'), (18, '9'), (19, '9')]
+('2', '9')
+29
+====
+shvkdvntpmvt52dvclb5bjdj
+[(12, '5'), (13, '2'), (19, '5')]
+('5', '5')
+55
+====
+eight5sevenfbjrpbdsdzhnc
+[(0, 'eight'), (5, '5'), (6, 'seven')]
+('eight', 'seven')
+87
+====
+dv2vqtqghlkprxx6three
+[(2, '2'), (15, '6'), (16, 'three')]
+('2', 'three')
+23
+====
+four1six4fnznbcdghfzpd
+[(0, 'four'), (4, '1'), (5, 'six'), (8, '4')]
+('four', '4')
+44
+====
+eightfiveone4fourone
+[(0, 'eight'), (5, 'five'), (9, 'one'), (12, '4'), (13, 'four'), (17, 'one')]
+('eight', 'one')
+81
+====
+two75four85
+[(0, 'two'), (3, '7'), (4, '5'), (5, 'four'), (9, '8'), (10, '5')]
+('two', '5')
+25
+====
+3331
+[(0, '3'), (1, '3'), (2, '3'), (3, '1')]
+('3', '1')
+31
+====
+9eight1seven
+[(0, '9'), (1, 'eight'), (6, '1'), (7, 'seven')]
+('9', 'seven')
+97
+====
+9threexbsevenfour
+[(0, '9'), (1, 'three'), (8, 'seven'), (13, 'four')]
+('9', 'four')
+94
+====
+22meight1
+[(0, '2'), (1, '2'), (3, 'eight'), (8, '1')]
+('2', '1')
+21
+====
+75two
+[(0, '7'), (1, '5'), (2, 'two')]
+('7', 'two')
+72
+====
+five6onetwordjsgltj
+[(0, 'five'), (4, '6'), (5, 'one'), (8, 'two')]
+('five', 'two')
+52
+====
+oneseven9one
+[(0, 'one'), (3, 'seven'), (8, '9'), (9, 'one')]
+('one', 'one')
+11
+====
+djljfzv7cnpnvhmqkjgn5eightsix97
+[(7, '7'), (20, '5'), (21, 'eight'), (26, 'six'), (29, '9'), (30, '7')]
+('7', '7')
+77
+====
+three8xpskzk
+[(0, 'three'), (5, '8')]
+('three', '8')
+38
+====
+nzgpp7fdcl6twotwochsgztwo
+[(5, '7'), (10, '6'), (11, 'two'), (14, 'two'), (22, 'two')]
+('7', 'two')
+72
+====
+1tfvvmzfd4threekgqdthreesfxjggmszz
+[(0, '1'), (9, '4'), (10, 'three'), (19, 'three')]
+('1', 'three')
+13
+====
+7krlgg8864gfp94
+[(0, '7'), (6, '8'), (7, '8'), (8, '6'), (9, '4'), (13, '9'), (14, '4')]
+('7', '4')
+74
+====
+3xxpkqxfxcn
+[(0, '3')]
+3
+3
+====
+eighthl4cctb26bppqpsc
+[(0, 'eight'), (7, '4'), (12, '2'), (13, '6')]
+('eight', '6')
+86
+====
+eight5rq
+[(0, 'eight'), (5, '5')]
+('eight', '5')
+85
+====
+hncmdrmfive4
+[(7, 'five'), (11, '4')]
+('five', '4')
+54
+====
+qml6mmx
+[(3, '6')]
+6
+6
+====
+qpckxnrjbdlprhmrqeight3bcjtghrrfvczqxeight
+[(17, 'eight'), (22, '3'), (37, 'eight')]
+('eight', 'eight')
+88
+====
+nine6five
+[(0, 'nine'), (4, '6'), (5, 'five')]
+('nine', 'five')
+95
+====
+fourmnzrtwocvdkmlc6
+[(0, 'four'), (8, 'two'), (18, '6')]
+('four', '6')
+46
+====
+3sixseven1mnbdqfgcqqcpsix
+[(0, '3'), (1, 'six'), (4, 'seven'), (9, '1'), (22, 'six')]
+('3', 'six')
+36
+====
+ninekvxrhk2jjjrdlqf49
+[(0, 'nine'), (10, '2'), (19, '4'), (20, '9')]
+('nine', '9')
+99
+====
+7seven743
+[(0, '7'), (1, 'seven'), (6, '7'), (7, '4'), (8, '3')]
+('7', '3')
+73
+====
+xnrz1m5
+[(4, '1'), (6, '5')]
+('1', '5')
+15
+====
+cseven8pg2
+[(1, 'seven'), (6, '8'), (9, '2')]
+('seven', '2')
+72
+====
+hxbfzndh6nltvbv
+[(8, '6')]
+6
+6
+====
+7zxdkghnzrzljlqftwo7hfmptrgd
+[(0, '7'), (16, 'two'), (19, '7')]
+('7', '7')
+77
+====
+5jltxrmxn
+[(0, '5')]
+5
+5
+====
+9eightqskgfndxsgmsrprhsvnninellts
+[(0, '9'), (1, 'eight'), (25, 'nine')]
+('9', 'nine')
+99
+====
+dz88
+[(2, '8'), (3, '8')]
+('8', '8')
+88
+====
+99nine
+[(0, '9'), (1, '9'), (2, 'nine')]
+('9', 'nine')
+99
+====
+rphppqzzxk2four
+[(10, '2'), (11, 'four')]
+('2', 'four')
+24
+====
+2nzeight
+[(0, '2'), (3, 'eight')]
+('2', 'eight')
+28
+====
+four44two
+[(0, 'four'), (4, '4'), (5, '4'), (6, 'two')]
+('four', 'two')
+42
+====
+qtwonetwodgbhqmtzf82onefive48
+[(1, 'two'), (3, 'one'), (6, 'two'), (18, '8'), (19, '2'), (20, 'one'), (23, 'five'), (27, '4'), (28, '8')]
+('two', '8')
+28
+====
+6fivedhmv
+[(0, '6'), (1, 'five')]
+('6', 'five')
+65
+====
+xsvpdrtvr28ltsjseven
+[(9, '2'), (10, '8'), (15, 'seven')]
+('2', 'seven')
+27
+====
+foursixfour61nrseven
+[(0, 'four'), (4, 'six'), (7, 'four'), (11, '6'), (12, '1'), (15, 'seven')]
+('four', 'seven')
+47
+====
+qrhtwone3tmtsixf
+[(3, 'two'), (5, 'one'), (8, '3'), (12, 'six')]
+('two', 'six')
+26
+====
+sqjvg2pzbzpgthreenine6cpsq
+[(5, '2'), (12, 'three'), (17, 'nine'), (21, '6')]
+('2', '6')
+26
+====
+jlvnsbshjmxnxfouronesix2zlff5
+[(13, 'four'), (17, 'one'), (20, 'six'), (23, '2'), (28, '5')]
+('four', '5')
+45
+====
+rzxkpczkn1bkcfbpbcb
+[(9, '1')]
+1
+1
+====
+9nmkljlqmd9fivenine7fivexndtdghpc
+[(0, '9'), (10, '9'), (11, 'five'), (15, 'nine'), (19, '7'), (20, 'five')]
+('9', 'five')
+95
+====
+6twovgpsevenmzcbjtnd3threegmsltfhrgq
+[(0, '6'), (1, 'two'), (7, 'seven'), (20, '3'), (21, 'three')]
+('6', 'three')
+63
+====
+fourmktnjsk4839ljqvqf
+[(0, 'four'), (11, '4'), (12, '8'), (13, '3'), (14, '9')]
+('four', '9')
+49
+====
+47hcbcnhjgxhdfn7rrbonehvlmddbone
+[(0, '4'), (1, '7'), (15, '7'), (19, 'one'), (29, 'one')]
+('4', 'one')
+41
+====
+26fchgtdnbtwo8jpqxkb
+[(0, '2'), (1, '6'), (10, 'two'), (13, '8')]
+('2', '8')
+28
+====
+7dxtslxqkbqfivefive
+[(0, '7'), (11, 'five'), (15, 'five')]
+('7', 'five')
+75
+====
+sixnineqnjmseventwo5gh2c
+[(0, 'six'), (3, 'nine'), (11, 'seven'), (16, 'two'), (19, '5'), (22, '2')]
+('six', '2')
+62
+====
+three1eightvxeightwogrd
+[(0, 'three'), (5, '1'), (6, 'eight'), (13, 'eight'), (17, 'two')]
+('three', 'two')
+32
+====
+twotwoninesixxdvrxv5
+[(0, 'two'), (3, 'two'), (6, 'nine'), (10, 'six'), (19, '5')]
+('two', '5')
+25
+====
+sixonetqddfmone1seven7
+[(0, 'six'), (3, 'one'), (12, 'one'), (15, '1'), (16, 'seven'), (21, '7')]
+('six', '7')
+67
+====
+fourseven9ninefoursxnnnfcbtb88
+[(0, 'four'), (4, 'seven'), (9, '9'), (10, 'nine'), (14, 'four'), (28, '8'), (29, '8')]
+('four', '8')
+48
+====
+twonpbnblrh3qckkxckflprdnr4
+[(0, 'two'), (11, '3'), (26, '4')]
+('two', '4')
+24
+====
+6eighttwo2sevenqml
+[(0, '6'), (1, 'eight'), (6, 'two'), (9, '2'), (10, 'seven')]
+('6', 'seven')
+67
+====
+three1twotwon1cjfnnnlptc
+[(0, 'three'), (5, '1'), (6, 'two'), (9, 'two'), (13, '1')]
+('three', '1')
+31
+====
+tlqtgktgjtgfour24four91
+[(11, 'four'), (15, '2'), (16, '4'), (17, 'four'), (21, '9'), (22, '1')]
+('four', '1')
+41
+====
+ghseven56sevensixhfstvk
+[(2, 'seven'), (7, '5'), (8, '6'), (9, 'seven'), (14, 'six')]
+('seven', 'six')
+76
+====
+qd8fourvmvgmssixsix8oneightps
+[(2, '8'), (3, 'four'), (13, 'six'), (16, 'six'), (19, '8'), (20, 'one'), (22, 'eight')]
+('8', 'eight')
+88
+====
+jjvhthplcgzdndmrnxmctrtnndmzztnggr9rspflsix
+[(34, '9'), (40, 'six')]
+('9', 'six')
+96
+====
+jqk39fivetwo
+[(3, '3'), (4, '9'), (5, 'five'), (9, 'two')]
+('3', 'two')
+32
+====
+nine2sixrtwothree
+[(0, 'nine'), (4, '2'), (5, 'six'), (9, 'two'), (12, 'three')]
+('nine', 'three')
+93
+====
+gccjpxtcxfone6six6nine5
+[(10, 'one'), (13, '6'), (14, 'six'), (17, '6'), (18, 'nine'), (22, '5')]
+('one', '5')
+15
+====
+7twoeight8flzqk77
+[(0, '7'), (1, 'two'), (4, 'eight'), (9, '8'), (15, '7'), (16, '7')]
+('7', '7')
+77
+====
+mjljctdbg8
+[(9, '8')]
+8
+8
+====
+sixthree8
+[(0, 'six'), (3, 'three'), (8, '8')]
+('six', '8')
+68
+====
+bbdlvtsjhjst88
+[(12, '8'), (13, '8')]
+('8', '8')
+88
+====
+dklhhhlpqqxlgdzzheightjntbmlfour4
+[(17, 'eight'), (28, 'four'), (32, '4')]
+('eight', '4')
+84
+====
+ggrbl5cthnzlsbjssixp
+[(5, '5'), (16, 'six')]
+('5', 'six')
+56
+====
+[42, 75, 29, 27, 59, 95, 19, 52, 41, 45, 69, 47, 15, 83, 4, 66, 29, 94, 32, 24, 1, 23, 99, 94, 13, 38, 68, 87, 17, 66, 65, 33, 78, 14, 33, 72, 28, 18, 91, 7, 11, 15, 44, 21, 3, 53, 71, 31, 16, 18, 11, 24, 15, 31, 21, 76, 26, 49, 11, 34, 58, 97, 88, 5, 34, 52, 39, 28, 66, 54, 29, 38, 33, 16, 39, 93, 98, 25, 17, 23, 42, 89, 41, 44, 68, 63, 44, 63, 4, 98, 99, 34, 9, 82, 79, 57, 33, 82, 97, 28, 8, 38, 98, 6, 93, 33, 57, 88, 16, 88, 62, 16, 82, 33, 2, 31, 82, 69, 2, 49, 16, 35, 12, 25, 27, 38, 7, 24, 93, 13, 74, 98, 32, 73, 56, 34, 58, 74, 98, 29, 25, 85, 31, 28, 61, 3, 51, 57, 66, 95, 8, 42, 66, 93, 85, 72, 89, 65, 87, 34, 96, 66, 71, 92, 24, 39, 23, 57, 58, 17, 28, 74, 34, 86, 36, 16, 82, 65, 24, 32, 5, 42, 55, 84, 54, 14, 62, 95, 97, 7, 81, 81, 15, 44, 9, 5, 17, 46, 36, 6, 95, 77, 99, 73, 46, 68, 16, 47, 44, 21, 56, 61, 91, 38, 3, 49, 59, 73, 14, 85, 32, 52, 43, 25, 96, 95, 1, 45, 59, 64, 21, 27, 7, 57, 69, 79, 13, 72, 75, 29, 68, 6, 69, 61, 35, 99, 25, 48, 59, 17, 18, 68, 88, 31, 85, 64, 98, 56, 53, 51, 43, 93, 8, 95, 48, 25, 61, 95, 69, 12, 68, 2, 29, 74, 56, 69, 38, 89, 52, 3, 85, 64, 54, 32, 56, 1, 4, 75, 11, 21, 44, 8, 2, 96, 57, 76, 34, 74, 93, 47, 5, 1, 91, 87, 66, 97, 45, 87, 86, 91, 32, 54, 24, 88, 67, 64, 44, 96, 58, 78, 78, 87, 51, 37, 18, 98, 32, 16, 93, 49, 31, 33, 65, 7, 35, 64, 93, 87, 36, 66, 62, 86, 31, 51, 79, 13, 71, 55, 28, 27, 87, 91, 61, 51, 96, 58, 33, 54, 94, 26, 1, 83, 71, 94, 35, 12, 81, 8, 28, 31, 96, 25, 37, 12, 56, 69, 19, 17, 45, 71, 59, 27, 27, 42, 88, 13, 78, 81, 55, 85, 57, 3, 13, 17, 49, 31, 46, 59, 56, 11, 93, 47, 56, 98, 32, 1, 83, 25, 41, 24, 8, 44, 79, 29, 32, 92, 6, 63, 71, 65, 96, 22, 11, 17, 33, 69, 17, 99, 81, 55, 11, 58, 61, 11, 25, 19, 12, 73, 27, 59, 4, 81, 82, 97, 96, 21, 38, 88, 39, 82, 65, 11, 59, 82, 97, 87, 76, 96, 45, 49, 29, 65, 59, 76, 22, 95, 64, 9, 87, 82, 5, 45, 46, 68, 61, 95, 73, 38, 94, 56, 29, 8, 67, 86, 92, 29, 36, 42, 62, 41, 44, 61, 31, 32, 34, 49, 8, 55, 56, 1, 6, 33, 53, 94, 52, 92, 78, 99, 58, 37, 96, 41, 96, 76, 43, 96, 13, 18, 78, 21, 86, 95, 62, 93, 94, 43, 67, 41, 85, 19, 83, 58, 13, 96, 91, 67, 65, 2, 82, 98, 17, 91, 65, 84, 72, 51, 93, 75, 87, 39, 24, 16, 11, 32, 88, 53, 97, 22, 15, 49, 95, 92, 57, 22, 8, 43, 79, 36, 35, 6, 65, 33, 48, 86, 73, 75, 85, 14, 57, 88, 24, 91, 83, 61, 22, 4, 31, 41, 36, 66, 48, 55, 86, 47, 59, 3, 81, 42, 75, 74, 73, 23, 85, 54, 4, 77, 66, 58, 48, 48, 99, 11, 54, 88, 67, 43, 23, 11, 45, 42, 44, 39, 1, 61, 69, 66, 77, 5, 4, 93, 25, 31, 72, 11, 16, 85, 47, 58, 55, 94, 26, 14, 25, 75, 12, 26, 23, 83, 47, 66, 97, 59, 62, 74, 24, 43, 24, 12, 5, 42, 62, 66, 14, 38, 53, 36, 57, 32, 66, 46, 2, 55, 76, 3, 25, 1, 39, 39, 12, 96, 92, 84, 74, 53, 16, 22, 67, 28, 19, 24, 68, 34, 18, 92, 31, 42, 55, 18, 26, 42, 65, 95, 79, 81, 35, 51, 38, 61, 76, 92, 27, 34, 1, 34, 35, 91, 71, 87, 26, 36, 34, 25, 22, 38, 84, 44, 51, 69, 88, 15, 23, 34, 73, 83, 49, 14, 12, 58, 24, 24, 72, 75, 35, 38, 77, 53, 95, 56, 36, 84, 21, 39, 47, 95, 25, 54, 89, 18, 11, 54, 81, 96, 89, 49, 65, 22, 78, 36, 44, 99, 67, 25, 77, 91, 42, 85, 23, 66, 37, 38, 73, 47, 48, 97, 41, 1, 97, 84, 42, 63, 17, 49, 61, 47, 47, 59, 15, 14, 88, 5, 27, 62, 7, 99, 43, 14, 68, 54, 73, 29, 88, 33, 74, 78, 49, 57, 57, 81, 32, 91, 36, 16, 23, 3, 35, 11, 92, 52, 79, 26, 31, 22, 52, 22, 62, 51, 92, 12, 58, 53, 39, 18, 79, 93, 14, 24, 77, 58, 35, 92, 16, 41, 9, 15, 25, 53, 79, 79, 9, 43, 66, 53, 56, 36, 72, 17, 13, 72, 18, 59, 31, 17, 44, 57, 62, 26, 26, 94, 62, 28, 92, 44, 61, 36, 82, 24, 66, 96, 15, 82, 93, 42, 28, 64, 91, 93, 25, 12, 24, 37, 44, 84, 29, 75, 18, 52, 14, 6, 51, 13, 92, 38, 92, 91, 68, 71, 57, 42, 45, 34, 17, 58, 63, 53, 29, 55, 87, 23, 44, 81, 25, 31, 97, 94, 21, 72, 52, 11, 77, 38, 72, 13, 74, 3, 86, 85, 54, 6, 88, 95, 46, 36, 99, 73, 15, 72, 6, 77, 5, 99, 88, 99, 24, 28, 42, 28, 65, 27, 47, 26, 26, 45, 1, 95, 63, 49, 41, 28, 75, 62, 32, 25, 67, 48, 24, 67, 31, 41, 76, 88, 96, 32, 93, 15, 77, 8, 68, 88, 84, 56]
+50637
